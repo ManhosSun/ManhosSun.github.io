@@ -56,15 +56,15 @@
 
 ~~~
 <div class="gallery">
-  <a target="_blank" href="/assets/images/album/2022/MomYeosuArteMuseumFlower.jpg">
-    <img src="/assets/images/album/2022/MomYeosuArteMuseumFlower.jpg" alt="어머님 여수 아르떼 박물관 Flower" width="600" height="auto">
+  <a target="_blank" href="/assets/images/album/2022/MomYeoSuArteMuseumFlower.jpg">
+    <img src="/assets/images/album/2022/MomYeoSuArteMuseumFlower.jpg" alt="어머님 여수 아르떼 박물관 Flower" width="600" height="auto">
   </a>
   <div class="desc">2022년 10월 19일 여수 아르떼 박물관 Flower관에서의 어머님</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/assets/images/album/2022/MomYeosuArteMuseumStar.jpg">
-    <img src="/assets/images/album/2022/MomYeosuArteMuseumStar.jpg" alt="어머님 여수 아르떼 박물관 Flower" width="600" height="auto">
+  <a target="_blank" href="/assets/images/album/2022/MomYeoSuArteMuseumStar.jpg">
+    <img src="/assets/images/album/2022/MomYeoSuArteMuseumStar.jpg" alt="어머님 여수 아르떼 박물관 Flower" width="600" height="auto">
   </a>
   <div class="desc">2022년 10월 19일 여수 아르떼 박물관 Star관에서의 어머님</div>
 </div>
