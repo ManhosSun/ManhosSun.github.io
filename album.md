@@ -8,6 +8,34 @@
 행복한 순간들을 담은 사진들입니다.
 
 ## 2024년
+### 2월
+
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/DadDessert.jpg">
+    <img src="/assets/images/album/2024/DadDessert.jpg" alt="설날 아버님 디저트" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 9일 설날 아버님께 드리는 디저트 - 가운데 동태전 아니에요</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/OldCar.jpg">
+    <img src="/assets/images/album/2024/OldCar.jpg" alt="옛차" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 10일 오랫동안 함께 한 정든 차를 보내며...</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/NewCar.jpg">
+    <img src="/assets/images/album/2024/NewCar.jpg" alt="새차" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 10일 오랫동안 함께 할 새 차를 맞이하며...</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
 ### 1월
 
 ~~~
@@ -23,6 +51,27 @@
 \\
 
 ## 2023년
+### 12월
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/ChristmasFamily.jpg">
+    <img src="/assets/images/album/2023/ChristmasFamily.jpg" alt="크리스마스 가족" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 크리스마스는 가족과 함께</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/ChristmasFamilyAnime.jpg">
+    <img src="/assets/images/album/2023/ChristmasFamilyAnime.jpg" alt="크리스마스 가족 만화" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 크리스마스에 만화로 변한 우리 가족</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+
 ### 4월
 
 ~~~

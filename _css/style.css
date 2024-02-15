@@ -337,12 +337,16 @@ div.gallery img {
   height: auto;
 }
 
+div.gallery video {
+  width: 100%;
+  height: auto;
+}
+
 div.desc {
   padding: 15px;
   text-align: center;
   font-size: small;
 }
-
 
 table {
   font-family: Arial, Helvetica, sans-serif;
@@ -366,4 +370,26 @@ th {
   padding-bottom: 12px;
   background-color: #04AA6D;
   color: white;
+}
+
+.message-date-author {
+  text-align: right;
+  font-size: small;
+}
+
+.image-caption {
+  text-align: center;
+  font-size: medium;
+  color: #777;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.image-center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
