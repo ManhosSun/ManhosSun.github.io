@@ -19,6 +19,28 @@
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/OldCarPast.jpg">
+    <img src="/assets/images/album/2024/OldCarPast.jpg" alt="옛차 옛사진" width="600" height="auto">
+  </a>
+  <div class="desc">정든 옛 차의 옛날 언젠가의 사진</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/WifeOldCar.jpg">
+    <img src="/assets/images/album/2024/WifeOldCar.jpg" alt="옛차 부인 옛사진" width="600" height="auto">
+  </a>
+  <div class="desc">옛날 언젠가 정든 옛 차 안의 부인</div>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/OldCarOnly.jpg">
+    <img src="/assets/images/album/2024/OldCarOnly.jpg" alt="옛차 독사진" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 10일 오랫동안 함께 한 정든 차의 늠름한 독사진</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="/assets/images/album/2024/OldCar.jpg">
     <img src="/assets/images/album/2024/OldCar.jpg" alt="옛차" width="600" height="auto">
   </a>
@@ -30,6 +52,55 @@
     <img src="/assets/images/album/2024/NewCar.jpg" alt="새차" width="600" height="auto">
   </a>
   <div class="desc">2024년 2월 10일 오랫동안 함께 할 새 차를 맞이하며...</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/NadaManCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/NadaManCowlesMountainTrailhead.jpg" alt="나다맨산" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 정상(?)에서의 나다맨</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/HusSideCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/HusSideCowlesMountainTrailhead.jpg" alt="남편산옆" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 정상(?)에서 카메라를 의식하지 않은 남편</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/HusSideLookCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/HusSideLookCowlesMountainTrailhead.jpg" alt="남편산옆앞" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 정상(?)에서 카메라를 의식한 남편</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/HusWifeCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/HusWifeCowlesMountainTrailhead.jpg" alt="남편부인산" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 에서 남편과 부인</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/WifeNadaManBackChangeCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/WifeNadaManBackChangeCowlesMountainTrailhead.jpg" alt="부인나다맨산" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 에서 부인과 나다맨은 잘 걷습니다 - 1</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/WifeNadaManBackCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/WifeNadaManBackCowlesMountainTrailhead.jpg" alt="부인나다맨산2" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 에서 부인과 나다맨은 잘 걷습니다 - 2</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/WifeNadaManBackDistanceCowlesMountainTrailhead.jpg">
+    <img src="/assets/images/album/2024/WifeNadaManBackDistanceCowlesMountainTrailhead.jpg" alt="부인나다맨산3" width="600" height="auto">
+  </a>
+  <div class="desc">2024년 2월 11일 Cowles Mountain Trailhead 에서 부인과 나다맨은 잘 걷습니다 - 3</div>
 </div>
 
 <div style="clear: both"></div>
@@ -53,6 +124,41 @@
 ## 2023년
 ### 12월
 ~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/LotteConcertHallTerraceLake.jpg">
+    <img src="/assets/images/album/2023/LotteConcertHallTerraceLake.jpg" alt="롯데콘서트홀 석촌호수" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 12월 6일 롯데콘서트홀 테라스에서 바라본 석촌호수</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/HusLotteConcertHallTerrace.jpg">
+    <img src="/assets/images/album/2023/HusLotteConcertHallTerrace.jpg" alt="롯데콘서트홀 남편" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 12월 6일 롯데콘서트홀 테라스에서 뒤를 돌아본 남편 - 콘서트를 즐길 생각에 기대에 차 있다.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/HusWifeLotteConcertHallTerrace.jpg">
+    <img src="/assets/images/album/2023/HusWifeLotteConcertHallTerrace.jpg" alt="롯데콘서트홀 테라스 남편과 부인" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 12월 6일 롯데콘서트홀 테라스에서 기대에 찬 부인과 남편</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/WifeFriendLotteConcertHall.jpg">
+    <img src="/assets/images/album/2023/WifeFriendLotteConcertHall.jpg" alt="롯데콘서트홀 부인과 친구" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 12월 6일 롯데콘서트홀 입구에서 부인과 친구 만아 - 콘서트 관람을 준비해 주셔서 감사합니다.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/HusWifeLotteConcertHall.jpg">
+    <img src="/assets/images/album/2023/HusWifeLotteConcertHall.jpg" alt="롯데콘서트홀 남편과 부인" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 12월 6일 롯데콘서트홀 공연장 좌석에서 기대에 찬 부인과 남편</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="/assets/images/album/2023/ChristmasFamily.jpg">
     <img src="/assets/images/album/2023/ChristmasFamily.jpg" alt="크리스마스 가족" width="600" height="auto">
