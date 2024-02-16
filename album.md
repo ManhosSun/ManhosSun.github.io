@@ -22,7 +22,7 @@
   <a target="_blank" href="/assets/images/album/2024/OldCarPast.jpg">
     <img src="/assets/images/album/2024/OldCarPast.jpg" alt="옛차 옛사진" width="600" height="auto">
   </a>
-  <div class="desc">정든 옛 차의 옛날 언젠가의 사진</div>
+  <div class="desc">정든 옛 차의 옛날 언젠가</div>
 </div>
 
 <div class="gallery">
