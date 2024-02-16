@@ -57,7 +57,7 @@
 @@
 ~~~
 <center>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210605_02.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
@@ -105,15 +105,15 @@
 
 ~~~
 <center>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210606_01.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210606_02.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210606_03.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
@@ -143,23 +143,23 @@
 
 ~~~
 <center>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210607_01.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210607_02.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210607_03.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210607_04.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
-<video width="600" height="400" styles="" controls>
+<video width="70%" styles="" controls>
       <source src="/assets/images/events/2021/Honolulu_20210607_05.mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
