@@ -37,18 +37,18 @@
 
 ## 2021년 6월 4일 PuPukea
 @@image-center
-![](/assets/images/events/2021/Pupukea_20210604_01.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_02.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_03.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_04.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_05.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_06.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_07.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_08.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_09.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_10.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_11.jpg)
-![](/assets/images/events/2021/Pupukea_20210604_12.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_01.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_02.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_03.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_04.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_05.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_06.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_07.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_08.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_09.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_10.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_11.jpg)
+![](/assets/images/events/2021/PuPukea_20210604_12.jpg)
 @@
 
 ## 2021년 6월 5일 Honolulu
