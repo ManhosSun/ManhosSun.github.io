@@ -207,9 +207,63 @@
 \\
 
 ## 2022년
+### 9월
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SuaWedding_20220930_01.jpg">
+    <img src="/assets/images/album/2022/SuaWedding_20220930_01.jpg" alt="수아결혼 어머님 1" width="600" height="auto">
+  </a>
+  <div class="desc">수아 결혼식장에서의 어머님 - 하나</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SuaWedding_20220930_02.jpg">
+    <img src="/assets/images/album/2022/SuaWedding_20220930_02.jpg" alt="수아결혼 어머님 2" width="600" height="auto">
+  </a>
+  <div class="desc">수아 결혼식장에서의 어머님 - 둘</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SuaWedding_20220930_03.jpg">
+    <img src="/assets/images/album/2022/SuaWedding_20220930_03.jpg" alt="수아결혼 부인 1" width="600" height="auto">
+  </a>
+  <div class="desc">수아 결혼식장에서의 부인 - 하나</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SuaWedding_20220930_04.jpg">
+    <img src="/assets/images/album/2022/SuaWedding_20220930_04.jpg" alt="수아결혼 부인과 나" width="600" height="auto">
+  </a>
+  <div class="desc">수아 결혼식장에서의 부인과 남편</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SuaWedding_20220930_05.jpg">
+    <img src="/assets/images/album/2022/SuaWedding_20220930_05.jpg" alt="수아결혼 부인, 나, 리아" width="600" height="auto">
+  </a>
+  <div class="desc">수아 결혼식장에서의 부인, 남편, 그리고 리아</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SuaWedding_20220930_06.jpg">
+    <img src="/assets/images/album/2022/SuaWedding_20220930_06.jpg" alt="수아결혼 부인 2" width="600" height="auto">
+  </a>
+  <div class="desc">수아 결혼식장에서의 부인 - 둘</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+
 ### 10월
 
 ~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/SunCar_202210.jpg">
+    <img src="/assets/images/album/2022/SunCar_202210.jpg" alt="부인 자동차" width="600" height="auto">
+  </a>
+  <div class="desc">2022년 10월 친구들과의 여행에서 재미있는 부인</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="/assets/images/album/2022/MomYeoSuArteMuseumFlower.jpg">
     <img src="/assets/images/album/2022/MomYeoSuArteMuseumFlower.jpg" alt="어머님 여수 아르떼 박물관 Flower" width="600" height="auto">
@@ -223,6 +277,20 @@
   </a>
   <div class="desc">2022년 10월 19일 여수 아르떼 박물관 Star관에서의 어머님</div>
 </div>
+
+<div style="clear: both"></div>
+~~~
+
+## 2021년
+### 6월
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2021/livingroom_20210612.jpg">
+    <img src="/assets/images/album/2021/livingroom_20210612.jpg" alt="우리집 거실" width="600" height="auto">
+  </a>
+  <div class="desc">2021년 6월 12일 오후의 거실</div>
+</div>
+
 
 <div style="clear: both"></div>
 ~~~
