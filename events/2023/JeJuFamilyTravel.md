@@ -35,11 +35,70 @@
 
 렌터카에서 차를 빌려 펜션으로 향하는 도중 허기를 느낀 일행은 달리던 중 우연히 발견한 김밥집을 들렀습니다.
 김밥집은 세븐일레븐 제주평화로점에 위치하고 있었습니다.
+기대없이 시킨 김밥은 예상 외로 맛이 좋아 모두를 만족시켰고 이 후에 제주의 다른 김밥집도 찾아가게 했습니다.
+하지만, 이 곳 김밥집만큼 맛있는 집은 찾지 못했죠.
+이 김밥 맛집은 '*해바라기*' 김밥집이었습니다. 
 
 @@image-center
-![](/assets/images/events/JeJu_KimBabStore.jpg)
+![](/assets/images/events/2023/JeJu_KimBabStore.jpg)
 @@
 @@image-caption
-제주 김밥 맛집
+제주 김밥 맛집 
+@@
+\\
+@@image-center
+![](/assets/images/events/2023/해바라기김밥집.jpg)
+@@
+@@image-caption
+해바라기 김밥집
 @@
 
+## 4월 23일 서귀포
+~~~
+<center>
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2023/서귀포_20230423.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+</center>
+~~~
+
+@@image-center
+![](/assets/images/events/2023/서귀포_20230423_01.jpg)
+![](/assets/images/events/2023/서귀포_20230423_02.jpg)
+![](/assets/images/events/2023/서귀포_20230423_03.jpg)
+![](/assets/images/events/2023/서귀포_20230423_04.jpg)
+![](/assets/images/events/2023/서귀포_20230423_05.jpg)
+![](/assets/images/events/2023/서귀포_20230423_06.jpg)
+![](/assets/images/events/2023/서귀포_20230423_07.jpg)
+![](/assets/images/events/2023/서귀포_20230423_08.jpg)
+![](/assets/images/events/2023/서귀포_20230423_09.jpg)
+![](/assets/images/events/2023/서귀포_20230423_10.jpg)
+@@
+\\
+
+## 4월 26일 김밥집 휴일
+4월 26일 미리 출발하는 처남을 제주 공항에 바라다 준 후, 맛있는 김밥을 먹으리라는 생각에 해바라기 김밥집을 들렀습니다. 
+그런데, 아뿔싸... 매주 수요일은 휴무일이군요.
+
+@@image-center
+![](/assets/images/events/2023/해바라기김밥집_휴무_20230426.jpg)
+@@
+\\
+
+재빨리 근처 다른 김밥집을 찾아 봅니다.
+다행히 얼마 떨어지지 않은 곳에 '*다가미*' 김밥집이 있네요.
+
+@@image-center
+![](/assets/images/events/2023/다가미가는길_20230426.jpg)
+@@
+\\
+
+그곳으로 갑니다.
+
+@@image-center
+![](/assets/images/events/2023/다가미김밥집_20230426.jpg)
+@@
+\\
+
+그럭 저럭 맛이 있지만 해바라기 김밥집의 김밥보다는 못했습니다. :disappointed:
