@@ -29,6 +29,14 @@
 학회 일정은 2023년 4월 20일부터 22일 금요일까지 진행이 된다는 소식에 4월 22일부터 28일까지 가족여행을 계획했습니다. 
 부인은 남편과 함께 4월 20일 제주로 향했고 메종 글래드 제주 호텔에서 2박 3일을 보냈습니다.
 
+@@image-center
+![](/assets/images/events/2023/메종글래드_부인_20230421.jpg)
+@@
+@@image-caption
+메종글래드 호텔에서의 부인 
+@@
+\\
+
 ## 세븐일레븐 제주평화로점의 김밥집
 처남과 어머님께서는 22일 오후 2시 10분 제주 도착하는 비행기로 합류하였습니다.
 제주공항에서 만난 우리 가족은 처남이 예약한 중문 근처의 제주에코 스위츠 휴양펜션으로 향했습니다.
@@ -53,7 +61,34 @@
 해바라기 김밥집
 @@
 
-## 4월 23일 서귀포
+## 중문, 서귀포
+
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/BroPorkBellyRestaurant.jpg">
+    <img src="/assets/images/album/2023/BroPorkBellyRestaurant.jpg" alt="처남 제주 중문 삽겹살집" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 4월 22일 제주 중문 삽겹살 전문점에서 처남과 함께</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/MomWaterfallParking.jpg">
+    <img src="/assets/images/album/2023/MomWaterfallParking.jpg" alt="어머님 제주 천제연폭포 주차장" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 4월 제주 천제연폭포 주차장에서의 어머님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2023/MomWaterfallTrail.jpg">
+    <img src="/assets/images/album/2023/MomWaterfallTrail.jpg" alt="어머님 제주 천제연폭포 산길" width="600" height="auto">
+  </a>
+  <div class="desc">2023년 4월 제주 천제연폭포 가는 길에서의 어머님</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
 ~~~
 <center>
 <video width="70%" styles="" controls>
@@ -63,6 +98,29 @@
 </center>
 ~~~
 
+@@image-center
+![](/assets/images/events/2023/천지연_01.jpg)
+![](/assets/images/events/2023/천지연_02.jpg)
+![](/assets/images/events/2023/천지연_03.jpg)
+![](/assets/images/events/2023/천지연_04.jpg)
+![](/assets/images/events/2023/천지연_05.jpg)
+![](/assets/images/events/2023/천지연_06.jpg)
+![](/assets/images/events/2023/천지연_07.jpg)
+![](/assets/images/events/2023/천지연_08.jpg)
+![](/assets/images/events/2023/천지연_09.jpg)
+![](/assets/images/events/2023/천지연_10.jpg)
+@@
+
+~~~
+<center>
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2023/천지연.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+</center>
+~~~
+
+\\
 @@image-center
 ![](/assets/images/events/2023/서귀포_20230423_01.jpg)
 ![](/assets/images/events/2023/서귀포_20230423_02.jpg)
