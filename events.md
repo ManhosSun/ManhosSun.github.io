@@ -13,6 +13,11 @@
 <iframe width="100%" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=MTVtczV0ZTQwdHNqbTduYW9tZjM0NDMwYW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ~~~
 
+## 2024년
+### 요세미티 공원 + 산타 바바라
+우리 부부와 더스티가 함께 간 요세미티 공원과 산타 바바라 여행...
+아름다운 대자연의 모습을... [요세미티 공원 + 산타 바바라 여행](/events/2024/Yosemite_SantaBabara/)
+
 ## 2023년 
 ### 제주 가족 여행
 온 가족이 함께 2023년 제주의 화창한 봄날을 즐겼습니다.
