@@ -7,8 +7,9 @@
 
 \tableofcontents <!-- you can use \toc as well -->
 
-## 여행, 지리
-### 요세미티 공원
+## 여행
+1. [미국 방문 서류](/column/usVisitDocuments/)
+
 
 ~~~
 <div class="gallery">
