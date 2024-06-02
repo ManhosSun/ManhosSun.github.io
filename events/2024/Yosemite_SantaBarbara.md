@@ -74,7 +74,16 @@
 
 ## 첫째 날 (Hyatt Place Fresno)
 
+들뜬 마음으로 잠을 설친 후, 우리는 더스티가 운전하는 폭스바겐 ID.4를 타고서 오전 10시 40분 경 집에서 출발합니다.
+그전날 밤에 100%로 충전한 자동차는 중간 중간 충전소를 들려 충전을 하며 여행 첫날밤을 보낼 Fresno로 향합니다.
+
+우리가 묵을 호텔은 바로 Hyatt Place Fresno!
+실내 수영장과 운동설비를 갖추고 조식도 무료 제공해주는 멋진 호텔!
+호텔에 전기 자동차 충전기도 갖추어 투숙객이 무료로 충전할 수 있습니다.
+호텔 웹사이트에서 찾은 멋진 사진들을 훑어보며 마음껏 즐기리라 다짐합니다.
+
 ~~~
+
 <!-- Container for the image gallery -->
 <div class="slideContainer">
 
@@ -163,7 +172,39 @@ function showSlides(n) {
 </script>
 ~~~
 
+고속도로를 달려 달려 도착한 호텔.
+비어있는 충전기 앞에 주차하고 기쁘게 체크인을 합니다.
+자, 이제 시원하게 수영을 하며 여독을 풀어볼까요?
+
+그런데 아뿔싸...
+수영장은 문을 닫았군요.
+아쉽지만 수영장 옆에 위치한 체육관으로 가서 운동을 합니다.
+첫날 밤이 이렇게 저뭅니다.
+
 ## 둘째 날 (Yosemite Valley Lodge)
+
+둘째 날이 밝았습니다.
+이미 조식 부페를 오전 6시 30분부터 사용할 수 있다는 정보를 확보했던 우리는 6시 좀 넘어서 눈을 뜨고 맙니다.
+6시 40분 경, 남편은 먼저 첫 식사를 할 생각으로 1층 식당으로 향했습니다.
+
+이른 시간에 이용객들이 별로 없으리라는 기대는 최대한 일찍 식사를 마치고 요세미티 공원으로 향하려는 투숙객들로 인해 무산되고 맙니다.
+예상 외로 많은 사람들 틈에서 남편은 혼자 꿋꿋이 식사를 합니다.
+인근 농장에서 공수되었다는 cage free 계란으로 만든 스크램블 에그가 맛있습니다.
+다시 부인과 올 생각에 적당히 첫 식사를 마치고 객실로 향합니다.
+
+조금 쉰 후, 이번에는 부인과 함께 식당을 향합니다.
+새벽보다는 사람들이 적군요.
+부인도 스크램블 에그를 맛있어 합니다.
+부페가 문을 닫을 9시 조금 전에 마지막 식사를 할 생각에 남편은 또 다시 적당히 식사를 마칩니다.
+
+객실에서 잠시 휴식을 취한 남편은 9시가 되기 전 마지막 식사를 하러 식당을 향합니다.
+식당에 도착하기 이전부터 부산함이 느껴집니다.
+식당에 도착한 남편은 너무 많은 이용객에 당황합니다.
+이미 빈 자리는 없고 음식도 동이 났군요.
+음식을 담을 접시마저 없어서 이용객들이 음식과 새 접시를 요구합니다.
+그냥 떠나기는 아쉬워 새 접시와 계란 요리가 나오기를 기다려 음식을 담고 객실로 향합니다.
+아쉽지만 이렇게 조식을 마칩니다. 
+호텔을 떠나 요세미티로 향합니다.
 
 @@image-center
 ![](/assets/images/events/2024/day2route.jpg)
@@ -172,6 +213,113 @@ function showSlides(n) {
 이동 경로
 @@
 \\
+
+도로 옆 소나무들이 많습니다.
+그런데 많은 나무들이 타버렸네요.
+큰 화재가 있었나 봅니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn01.jpg">
+      <img src="/assets/images/events/2024/treeBurn01.jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn02.jpg">
+      <img src="/assets/images/events/2024/treeBurn02.jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn03.jpg">
+      <img src="/assets/images/events/2024/treeBurn03.jpg" alt="Mountains" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn04.jpg">
+      <img src="/assets/images/events/2024/treeBurn04.jpg" alt="Mountains" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+
+살펴보니 2022년 Washburn fire라는 큰 산불이 있었군요.
+2022년 7월 11일 발화해서 2022년 8월 1일 진화되었네요.
+자나깨나 산불조심!!! :fire:
+
+이렇게 산길을 구비구비 지나다 보니 Yosemite South entrance에 도착하였습니다.
+이제 공원 안으로 들어갑니다.
+
+@@image-center
+![](/assets/images/events/2024/day1route.jpg)
+@@
+@@image-caption
+요세미티 공원 이동 경로
+@@
+\\
+
+첫 목적지는 WashburnPoint 입니다.
+Glacier Point를 가는 길에 있습니다.
+가는 길에 들르면 되겠군요.
+
+어느덧 South Entrance에 도착했습니다.
+35불을 내어주니 환영해줍니다.
+
+@@image-center
+![](/assets/images/events/2024/southEntrance.jpg)
+@@
+@@image-caption
+요세미티 공원 South Entrance
+@@
+\\
+
+입구에서 좀 오르다보니 자연이 더스티를 부르는군요.
+마침 Wawona Hotel 입구가 보입니다.
+더스티는 망설임없이 들어섭니다.
+호텔 전경이 아름답군요.
+
+### Wawona Hotel
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (1).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (1).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (6).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (6).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+
+Wawona Hotel은 캘리포니아 주 요세미티 국립공원에 위치한 역사적인 호텔입니다. 1856년에 처음 개장한 이 호텔은 요세미티 국립공원에서 가장 오래된 호텔 중 하나로, 빅토리아 스타일의 건축 양식을 자랑합니다.
+
+주요 특징 및 역사:
+
+1. **역사적 배경**:
+   - Wawona Hotel은 19세기 중반 골드 러시 시기에 지어졌습니다.
+   - 원래는 피터 조든(Peter Jorden)이 "클락 앤드 무어즈"라는 이름으로 세웠으며, 이후 현재의 이름으로 변경되었습니다.
+   - 1977년에는 국가 사적지(National Historic Landmark)로 지정되었습니다.
+
+2. **건축 및 디자인**:
+   - 빅토리아 양식의 건물로, 고전적인 목재 구조와 넓은 베란다가 특징입니다.
+   - 아름다운 정원과 골프 코스가 주변에 있으며, 방문객들에게 고전적인 매력을 제공합니다.
+
+3. **시설 및 서비스**:
+   - 호텔에는 전통적인 객실, 식당, 라운지 및 다양한 편의 시설이 마련되어 있습니다.
+   - 숙박객들은 주변의 트레일, 승마, 골프 등의 야외 활동을 즐길 수 있습니다.
+
+4. **위치 및 접근성**:
+   - Wawona Hotel은 요세미티 국립공원의 남쪽 입구 근처에 위치해 있으며, 요세미티 밸리(Yosemite Valley)와 마리포사 그로브(Mariposa Grove)와 가깝습니다.
+   - 차량으로 쉽게 접근할 수 있으며, 공원 내부 셔틀 버스 서비스도 제공합니다.
+
+Wawona Hotel은 자연과 역사의 아름다움을 동시에 즐길 수 있는 장소로, 요세미티 국립공원을 방문하는 많은 관광객들에게 인기 있는 숙소입니다.
+
+한참 오르다가 우회전하여 Washburn과 Glacier Point로 향합니다.
+오르다 보니 우측에 Washburn 표시가 있네요.
+냉큼 들어섭니다.
 
 ### Washburn Point
 
