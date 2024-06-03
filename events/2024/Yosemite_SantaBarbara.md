@@ -453,30 +453,33 @@ Yosemite Valley Loop Trail 지도
 큰 화재가 있었나 봅니다.
 
 ~~~
-<div class="row">
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn01.jpg">
-      <img src="/assets/images/events/2024/treeBurn01.jpg" alt="Snow" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn02.jpg">
-      <img src="/assets/images/events/2024/treeBurn02.jpg" alt="Forest" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn03.jpg">
-      <img src="/assets/images/events/2024/treeBurn03.jpg" alt="Mountains" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn04.jpg">
-      <img src="/assets/images/events/2024/treeBurn04.jpg" alt="Mountains" style="width:100%">
-    </a>
-  </div>
+<div class="gallery">
+  <a target="_blank" href="/assets/images/events/2024/treeBurn01.jpg">
+    <img src="/assets/images/events/2024/treeBurn01.jpg" alt="TreeBurn01" width="600" height="auto">
+  </a>
 </div>
+
+<div class="gallery">
+    <a target="_blank" href="/assets/images/events/2024/treeBurn02.jpg">
+      <img src="/assets/images/events/2024/treeBurn02.jpg" alt="Forest" style="width:600">
+    </a>
+</div>
+
+  <div class="gallery">
+    <a target="_blank" href="/assets/images/events/2024/treeBurn03.jpg">
+      <img src="/assets/images/events/2024/treeBurn03.jpg" alt="Mountains" style="width:600">
+    </a>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="/assets/images/events/2024/treeBurn04.jpg">
+      <img src="/assets/images/events/2024/treeBurn04.jpg" alt="Mountains" style="width:600">
+    </a>
+  </div>
+
+  <div style="clear: both"></div>
 ~~~
 
+\\
 살펴보니 2022년 Washburn fire라는 큰 산불이 있었군요.
 2022년 7월 11일 발화해서 2022년 8월 1일 진화되었네요.
 자나깨나 산불조심!!! :fire:
@@ -493,10 +496,10 @@ Yosemite Valley Loop Trail 지도
 \\
 
 첫 목적지는 WashburnPoint 입니다.
-Glacier Point를 가는 길에 있습니다.
+또 다른 명소인 Glacier Point를 가는 길에 있습니다.
 가는 길에 들르면 되겠군요.
 
-어느덧 South Entrance에 도착했습니다.
+차는 달려 어느덧 South Entrance에 도착했습니다.
 35불을 내어주니 환영해줍니다.
 
 @@image-center
@@ -513,23 +516,23 @@ Glacier Point를 가는 길에 있습니다.
 호텔 전경이 아름답군요.
 
 ~~~
-<div class="row">
-<div class="column">
+<div class="gallery">
     <a href="/assets/images/events/2024/wawonaHotel (5).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (5).jpg" alt="Snow" style="width:100%">
+      <img src="/assets/images/events/2024/wawonaHotel (5).jpg" alt="Snow" style="width:600">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wawonaHotel (1).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (1).jpg" alt="Snow" style="width:100%">
+      <img src="/assets/images/events/2024/wawonaHotel (1).jpg" alt="Snow" style="width:600">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wawonaHotel (6).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (6).jpg" alt="Forest" style="width:100%">
+      <img src="/assets/images/events/2024/wawonaHotel (6).jpg" alt="Forest" style="width:600">
     </a>
   </div>
-</div>
+
+  <div style="clear: both"></div>
 ~~~
 \\
 
@@ -537,23 +540,23 @@ Glacier Point를 가는 길에 있습니다.
 멋진 풍경 속에 예쁜 부인의 사진을 찍지 않을 수 없군요.
 
 ~~~
-<div class="row">
-<div class="column">
+<div class="gallery">
     <a href="/assets/images/events/2024/wawonaHotel (2).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (2).jpg" alt="Snow" style="width:100%">
+      <img src="/assets/images/events/2024/wawonaHotel (2).jpg" alt="Snow" style="width:600">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wawonaHotel (3).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (3).jpg" alt="Snow" style="width:100%">
+      <img src="/assets/images/events/2024/wawonaHotel (3).jpg" alt="Snow" width = "1200">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wawonaHotel (4).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (4).jpg" alt="Forest" style="width:100%">
+      <img src="/assets/images/events/2024/wawonaHotel (4).jpg" alt="Forest" style="width:1200">
     </a>
   </div>
-</div>
+
+<div style="clear: both"></div>
 ~~~
 \\
 
