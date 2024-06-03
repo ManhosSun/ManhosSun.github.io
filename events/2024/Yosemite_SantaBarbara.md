@@ -476,6 +476,20 @@ Yosemite Valley Loop Trail 지도
     </a>
   </div>
 
+  <div class="gallery">
+    <a target="_blank" href="/assets/images/events/2024/treeBurn (1).jpg">
+      <img src="/assets/images/events/2024/treeBurn (1).jpg" alt="Mountains" style="width:600">
+    </a>
+    <div class="desc">화재현장을 뒤로 한 부인</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="/assets/images/events/2024/treeBurn (2).jpg">
+      <img src="/assets/images/events/2024/treeBurn (2).jpg" alt="Mountains" style="width:600">
+    </a>
+    <div class="desc">화재현장을 뒤로 한 남편</div>
+  </div>
+
   <div style="clear: both"></div>
 ~~~
 
@@ -571,58 +585,57 @@ Yosemite Valley Loop Trail 지도
 겨우내 덮여있던 눈이 녹는 중인가 봅니다.
 
 ~~~
-<div class="row">
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (1).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (1).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (2).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (2).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (3).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (3).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (4).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (4).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (5).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (5).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (6).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (6).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (7).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (7).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (8).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (8).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (9).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (9).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/wayToWashburn01 (10).jpg">
       <img src="/assets/images/events/2024/wayToWashburn01 (10).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-</div>
+<div style="clear: both"></div>
 ~~~
 \\
 
@@ -636,68 +649,147 @@ Half Dome, Mt Broderick, Liberty Cap, Nevada Fall과 Vernal Fall이 한 눈에 �
 바위 위에 서있는 남편 사진에 부인은 "산할아버지 구름모자 썼네"라고 부제를 붙여봅니다.
 
 ~~~
-<div class="row">
-  <div class="column">
+
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (1).jpg">
       <img src="/assets/images/events/2024/washburn (1).jpg" alt="Snow" style="width:100%">
     </a>
+    <div class="desc">더스티를 노리는 부인</div>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (2).jpg">
       <img src="/assets/images/events/2024/washburn (2).jpg" alt="Snow" style="width:100%">
     </a>
+    <div class="desc">계속해서 더스티를 노리는 부인</div>
   </div>
-  <div class="column">
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (13).jpg">
+      <img src="/assets/images/events/2024/washburn (13).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">결국 부인에게 덜미를 잡힌 더스티</div>
+  </div>
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (3).jpg">
       <img src="/assets/images/events/2024/washburn (3).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (4).jpg">
       <img src="/assets/images/events/2024/washburn (4).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (5).jpg">
       <img src="/assets/images/events/2024/washburn (5).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (14).jpg">
+      <img src="/assets/images/events/2024/washburn (14).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">여유있게 멋진 풍경을 바라보는 부인의 뒷모습</div>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (15).jpg">
+      <img src="/assets/images/events/2024/washburn (15).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">여유있게 멋진 풍경을 바라보는 남편의 뒷모습</div>
+  </div>
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (6).jpg">
       <img src="/assets/images/events/2024/washburn (6).jpg" alt="Forest" style="width:100%">
     </a>
+    <div class="desc">어설픈 실력으로 셀카에 도전한 남편</div>
   </div>
-  <div class="column">
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (16).jpg">
+      <img src="/assets/images/events/2024/washburn (16).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편의 어설픈 셀카를 응징한 부인</div>
+  </div>
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (7).jpg">
       <img src="/assets/images/events/2024/washburn (7).jpg" alt="Snow" style="width:100%">
     </a>
+    <div class="desc">셀카에 재도전한 남편</div>
   </div>
-  <div class="column">
+   <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (18).jpg">
+      <img src="/assets/images/events/2024/washburn (18).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">이어지는 삼엄한 꾸짖음</div>
+  </div>
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (8).jpg">
       <img src="/assets/images/events/2024/washburn (8).jpg" alt="Snow" style="width:100%">
     </a>
+    <div class="desc">다시 한번 셀카에 도전한 남편</div>
   </div>
-  <div class="column">
+ 
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (19).jpg">
+      <img src="/assets/images/events/2024/washburn (19).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">또 다시 준엄한 질책</div>
+  </div>
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (9).jpg">
       <img src="/assets/images/events/2024/washburn (9).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (10).jpg">
       <img src="/assets/images/events/2024/washburn (10).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (11).jpg">
       <img src="/assets/images/events/2024/washburn (11).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/washburn (12).jpg">
       <img src="/assets/images/events/2024/washburn (12).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-</div>
+
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (20).jpg">
+      <img src="/assets/images/events/2024/washburn (20).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">Washburn에 출몰한 더스티</div>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (21).jpg">
+      <img src="/assets/images/events/2024/washburn (21).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">Washburn의 매력에 참지 못하고 카메라를 들이댄 더스티</div>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (22).jpg">
+      <img src="/assets/images/events/2024/washburn (22).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">바위 위에 또 다시 출몰한 더스티</div>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (23).jpg">
+      <img src="/assets/images/events/2024/washburn (23).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">바위 위에서 치명적인 더스티</div>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (24).jpg">
+      <img src="/assets/images/events/2024/washburn (24).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">남편 산할아버지 구름 모자 썼네</div>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/washburn (25).jpg">
+      <img src="/assets/images/events/2024/washburn (25).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">Washburn을 떠나기 전 마지막 가르침을 잊지 않은 부인</div>
+  </div>
+<div style="clear: both"></div>
 ~~~
 \\
 ~~~
@@ -718,18 +810,18 @@ Washburn 보다 더 명소로 알려진 Glacier Point이기에 좀 더 큰 기�
 부인이 옳았음을 다시 한번 확인합니다.
 
 ~~~
-<div class="row">
-  <div class="column">
+
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (1).jpg">
       <img src="/assets/images/events/2024/glacierPoint (1).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (2).jpg">
       <img src="/assets/images/events/2024/glacierPoint (2).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-</div>
+<div style="clear: both"></div>
 ~~~
 \\
 
@@ -741,78 +833,77 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 물론 웅장한 그 절경은 변함없습니다만, 처음 Washburn에서 느꼈던 만큼의 감동은 오지 않았습니다. :unamused:
 
 ~~~
-<div class="row">
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (3).jpg">
       <img src="/assets/images/events/2024/glacierPoint (3).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (4).jpg">
       <img src="/assets/images/events/2024/glacierPoint (4).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (5).jpg">
       <img src="/assets/images/events/2024/glacierPoint (5).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (6).jpg">
       <img src="/assets/images/events/2024/glacierPoint (6).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (7).jpg">
       <img src="/assets/images/events/2024/glacierPoint (7).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (8).jpg">
       <img src="/assets/images/events/2024/glacierPoint (8).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (9).jpg">
       <img src="/assets/images/events/2024/glacierPoint (9).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (10).jpg">
       <img src="/assets/images/events/2024/glacierPoint (10).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (11).jpg">
       <img src="/assets/images/events/2024/glacierPoint (11).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (12).jpg">
       <img src="/assets/images/events/2024/glacierPoint (12).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (13).jpg">
       <img src="/assets/images/events/2024/glacierPoint (13).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (14).jpg">
       <img src="/assets/images/events/2024/glacierPoint (14).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (15).jpg">
       <img src="/assets/images/events/2024/glacierPoint (15).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/glacierPoint (16).jpg">
       <img src="/assets/images/events/2024/glacierPoint (16).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-</div>
+<div style="clear: both"></div>
 ~~~
 \\
 ~~~
@@ -835,48 +926,47 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 산행을 위해 가져온 지팡이를 딛고서 터널뷰로 향합니다.
 
 ~~~
-<div class="row">
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (1).jpg">
       <img src="/assets/images/events/2024/tunnelView (1).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (2).jpg">
       <img src="/assets/images/events/2024/tunnelView (2).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (3).jpg">
       <img src="/assets/images/events/2024/tunnelView (3).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (4).jpg">
       <img src="/assets/images/events/2024/tunnelView (4).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (5).jpg">
       <img src="/assets/images/events/2024/tunnelView (5).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (6).jpg">
       <img src="/assets/images/events/2024/tunnelView (6).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (7).jpg">
       <img src="/assets/images/events/2024/tunnelView (7).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/tunnelView (8).jpg">
       <img src="/assets/images/events/2024/tunnelView (8).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-</div>
+<div style="clear: both"></div>
 ~~~
 \\
 
@@ -886,23 +976,22 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 비록 예정대로 Bridalveil Fall 앞까지 가지는 못했지만 입구에서 폭포의 아름다운 모습을 담아봅니다.
 
 ~~~
-<div class="row">
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/bridalveilFall (1).jpg">
       <img src="/assets/images/events/2024/bridalveilFall (1).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/bridalveilFall (2).jpg">
       <img src="/assets/images/events/2024/bridalveilFall (2).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
-  <div class="column">
+  <div class="gallery">
     <a href="/assets/images/events/2024/bridalveilFall (3).jpg">
       <img src="/assets/images/events/2024/bridalveilFall (3).jpg" alt="Forest" style="width:100%">
     </a>
   </div>
-</div>
+<div style="clear: both"></div>
 ~~~
 \\
 
