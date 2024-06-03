@@ -1,4 +1,5 @@
 @def title = "요세미티 공원과 산타 바바라 여행"
+
 @def tags = ["2024", "요세미티 공원", "산타 바바라", "여행"]
 
 # 요세미티 공원과 산타 바바라 여행
@@ -72,13 +73,12 @@
 @@
 \\
 
-## 첫째 날 (Hyatt Place Fresno)
+## 사전 정보
 
-들뜬 마음으로 잠을 설친 후, 우리는 더스티가 운전하는 폭스바겐 ID.4를 타고서 오전 10시 40분 경 집에서 출발합니다.
-그전날 밤에 100%로 충전한 자동차는 중간 중간 충전소를 들려 충전을 하며 여행 첫날밤을 보낼 Fresno로 향합니다.
+### Hyatt Place Fresno
 
-우리가 묵을 호텔은 바로 Hyatt Place Fresno!
-실내 수영장과 운동설비를 갖추고 조식도 무료 제공해주는 멋진 호텔!
+우리가 첫날밤에 묵을 호텔!
+실내 수영장과 운동설비를 갖추고 조식도 무료 제공해주는 멋진 호텔입니다.
 호텔에 전기 자동차 충전기도 갖추어 투숙객이 무료로 충전할 수 있습니다.
 호텔 웹사이트에서 찾은 멋진 사진들을 훑어보며 마음껏 즐기리라 다짐합니다.
 
@@ -171,128 +171,9 @@ function showSlides(n) {
 }
 </script>
 ~~~
-
-고속도로를 달려 달려 도착한 호텔.
-비어있는 충전기 앞에 주차하고 기쁘게 체크인을 합니다.
-자, 이제 시원하게 수영을 하며 여독을 풀어볼까요?
-
-그런데 아뿔싸...
-수영장은 문을 닫았군요.
-아쉽지만 수영장 옆에 위치한 체육관으로 가서 운동을 합니다.
-첫날 밤이 이렇게 저뭅니다.
-
-## 둘째 날 (Yosemite Valley Lodge)
-
-둘째 날이 밝았습니다.
-이미 조식 부페를 오전 6시 30분부터 사용할 수 있다는 정보를 확보했던 우리는 6시 좀 넘어서 눈을 뜨고 맙니다.
-6시 40분 경, 남편은 먼저 첫 식사를 할 생각으로 1층 식당으로 향했습니다.
-
-이른 시간에 이용객들이 별로 없으리라는 기대는 최대한 일찍 식사를 마치고 요세미티 공원으로 향하려는 투숙객들로 인해 무산되고 맙니다.
-예상 외로 많은 사람들 틈에서 남편은 혼자 꿋꿋이 식사를 합니다.
-인근 농장에서 공수되었다는 cage free 계란으로 만든 스크램블 에그가 맛있습니다.
-다시 부인과 올 생각에 적당히 첫 식사를 마치고 객실로 향합니다.
-
-조금 쉰 후, 이번에는 부인과 함께 식당을 향합니다.
-새벽보다는 사람들이 적군요.
-부인도 스크램블 에그를 맛있어 합니다.
-부페가 문을 닫을 9시 조금 전에 마지막 식사를 할 생각에 남편은 또 다시 적당히 식사를 마칩니다.
-
-객실에서 잠시 휴식을 취한 남편은 9시가 되기 전 마지막 식사를 하러 식당을 향합니다.
-식당에 도착하기 이전부터 부산함이 느껴집니다.
-식당에 도착한 남편은 너무 많은 이용객에 당황합니다.
-이미 빈 자리는 없고 음식도 동이 났군요.
-음식을 담을 접시마저 없어서 이용객들이 음식과 새 접시를 요구합니다.
-그냥 떠나기는 아쉬워 새 접시와 계란 요리가 나오기를 기다려 음식을 담고 객실로 향합니다.
-아쉽지만 이렇게 조식을 마칩니다. 
-호텔을 떠나 요세미티로 향합니다.
-
-@@image-center
-![](/assets/images/events/2024/day2route.jpg)
-@@
-@@image-caption
-이동 경로
-@@
 \\
-
-도로 옆 소나무들이 많습니다.
-그런데 많은 나무들이 타버렸네요.
-큰 화재가 있었나 봅니다.
-
-~~~
-<div class="row">
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn01.jpg">
-      <img src="/assets/images/events/2024/treeBurn01.jpg" alt="Snow" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn02.jpg">
-      <img src="/assets/images/events/2024/treeBurn02.jpg" alt="Forest" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn03.jpg">
-      <img src="/assets/images/events/2024/treeBurn03.jpg" alt="Mountains" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/treeBurn04.jpg">
-      <img src="/assets/images/events/2024/treeBurn04.jpg" alt="Mountains" style="width:100%">
-    </a>
-  </div>
-</div>
-~~~
-
-살펴보니 2022년 Washburn fire라는 큰 산불이 있었군요.
-2022년 7월 11일 발화해서 2022년 8월 1일 진화되었네요.
-자나깨나 산불조심!!! :fire:
-
-이렇게 산길을 구비구비 지나다 보니 Yosemite South entrance에 도착하였습니다.
-이제 공원 안으로 들어갑니다.
-
-@@image-center
-![](/assets/images/events/2024/day1route.jpg)
-@@
-@@image-caption
-요세미티 공원 이동 경로
-@@
-\\
-
-첫 목적지는 WashburnPoint 입니다.
-Glacier Point를 가는 길에 있습니다.
-가는 길에 들르면 되겠군요.
-
-어느덧 South Entrance에 도착했습니다.
-35불을 내어주니 환영해줍니다.
-
-@@image-center
-![](/assets/images/events/2024/southEntrance.jpg)
-@@
-@@image-caption
-요세미티 공원 South Entrance
-@@
-\\
-
-입구에서 좀 오르다보니 자연이 더스티를 부르는군요.
-마침 Wawona Hotel 입구가 보입니다.
-더스티는 망설임없이 들어섭니다.
-호텔 전경이 아름답군요.
 
 ### Wawona Hotel
-~~~
-<div class="row">
-  <div class="column">
-    <a href="/assets/images/events/2024/wawonaHotel (1).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (1).jpg" alt="Snow" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/assets/images/events/2024/wawonaHotel (6).jpg">
-      <img src="/assets/images/events/2024/wawonaHotel (6).jpg" alt="Forest" style="width:100%">
-    </a>
-  </div>
-</div>
-~~~
 
 Wawona Hotel은 캘리포니아 주 요세미티 국립공원에 위치한 역사적인 호텔입니다. 1856년에 처음 개장한 이 호텔은 요세미티 국립공원에서 가장 오래된 호텔 중 하나로, 빅토리아 스타일의 건축 양식을 자랑합니다.
 
@@ -316,10 +197,6 @@ Wawona Hotel은 캘리포니아 주 요세미티 국립공원에 위치한 역�
    - 차량으로 쉽게 접근할 수 있으며, 공원 내부 셔틀 버스 서비스도 제공합니다.
 
 Wawona Hotel은 자연과 역사의 아름다움을 동시에 즐길 수 있는 장소로, 요세미티 국립공원을 방문하는 많은 관광객들에게 인기 있는 숙소입니다.
-
-한참 오르다가 우회전하여 Washburn과 Glacier Point로 향합니다.
-오르다 보니 우측에 Washburn 표시가 있네요.
-냉큼 들어섭니다.
 
 ### Washburn Point
 
@@ -427,17 +304,6 @@ Yosemite Shuttle 지도
 @@
 \\
 
-
-## 셋째 날 (Yosemite Valley Lodge)
-
-@@image-center
-![](/assets/images/events/2024/day3route.jpg)
-@@
-@@image-caption
-이동 경로
-@@
-\\
-
 ### Vernal Falls
 Vernal Falls는 미국 캘리포니아주에 위치한 요세미티 국립공원 내의 유명한 폭포입니다. 이 폭포는 메르세드 강(Merced River) 상류에 위치해 있으며, 약 97미터(318피트)의 높이를 자랑합니다. Vernal Falls는 요세미티의 아름다운 자연 경관 중 하나로, 많은 등산객과 관광객들이 방문하는 명소입니다.
 
@@ -531,6 +397,522 @@ Yosemite Valley Loop Trail은 요세미티의 자연미를 만끽할 수 있는 
 Yosemite Valley Loop Trail 지도
 @@
 \\
+
+
+
+
+## 첫째 날 (Hyatt Place Fresno)
+
+들뜬 마음으로 잠을 설친 후, 우리는 더스티가 운전하는 폭스바겐 ID.4를 타고서 오전 10시 40분 경 집에서 출발합니다.
+그전날 밤에 100%로 충전한 자동차는 중간 중간 충전소를 들려 충전을 하며 여행 첫날밤을 보낼 Fresno로 향합니다.
+
+고속도로를 달려 달려 도착한 호텔.
+비어있는 충전기 앞에 주차하고 기쁘게 체크인을 합니다.
+자, 이제 시원하게 수영을 하며 여독을 풀어볼까요?
+
+그런데 아뿔싸...
+수영장은 문을 닫았군요.
+아쉽지만 수영장 옆에 위치한 체육관으로 가서 운동을 합니다.
+첫날 밤이 이렇게 저뭅니다.
+
+## 둘째 날 (Yosemite Valley Lodge)
+
+둘째 날이 밝았습니다.
+이미 조식 부페를 오전 6시 30분부터 사용할 수 있다는 정보를 확보했던 우리는 6시 좀 넘어서 눈을 뜨고 맙니다.
+6시 40분 경, 남편은 먼저 첫 식사를 할 생각으로 1층 식당으로 향했습니다.
+
+이른 시간에 이용객들이 별로 없으리라는 기대는 최대한 일찍 식사를 마치고 요세미티 공원으로 향하려는 투숙객들로 인해 무산되고 맙니다.
+예상 외로 많은 사람들 틈에서 남편은 혼자 꿋꿋이 식사를 합니다.
+인근 농장에서 공수되었다는 cage free 계란으로 만든 스크램블 에그가 맛있습니다.
+다시 부인과 올 생각에 적당히 첫 식사를 마치고 객실로 향합니다.
+
+조금 쉰 후, 이번에는 부인과 함께 식당을 향합니다.
+새벽보다는 사람들이 적군요.
+부인도 스크램블 에그를 맛있어 합니다.
+부페가 문을 닫을 9시 조금 전에 마지막 식사를 할 생각에 남편은 또 다시 적당히 식사를 마칩니다.
+
+객실에서 잠시 휴식을 취한 남편은 9시가 되기 전 마지막 식사를 하러 식당을 향합니다.
+식당에 도착하기 이전부터 부산함이 느껴집니다.
+식당에 도착한 남편은 너무 많은 이용객에 당황합니다.
+이미 빈 자리는 없고 음식도 동이 났군요.
+음식을 담을 접시마저 없어서 이용객들이 음식과 새 접시를 요구합니다.
+그냥 떠나기는 아쉬워 새 접시와 계란 요리가 나오기를 기다려 음식을 담고 객실로 향합니다.
+아쉽지만 이렇게 조식을 마칩니다. 
+호텔을 떠나 요세미티로 향합니다.
+
+@@image-center
+![](/assets/images/events/2024/day2route.jpg)
+@@
+@@image-caption
+이동 경로
+@@
+\\
+
+도로 옆 소나무들이 많습니다.
+그런데 많은 나무들이 타버렸네요.
+큰 화재가 있었나 봅니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn01.jpg">
+      <img src="/assets/images/events/2024/treeBurn01.jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn02.jpg">
+      <img src="/assets/images/events/2024/treeBurn02.jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn03.jpg">
+      <img src="/assets/images/events/2024/treeBurn03.jpg" alt="Mountains" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/treeBurn04.jpg">
+      <img src="/assets/images/events/2024/treeBurn04.jpg" alt="Mountains" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+
+살펴보니 2022년 Washburn fire라는 큰 산불이 있었군요.
+2022년 7월 11일 발화해서 2022년 8월 1일 진화되었네요.
+자나깨나 산불조심!!! :fire:
+
+이렇게 산길을 구비구비 지나다 보니 Yosemite South entrance에 도착하였습니다.
+이제 공원 안으로 들어갑니다.
+
+@@image-center
+![](/assets/images/events/2024/day1route.jpg)
+@@
+@@image-caption
+요세미티 공원 이동 경로
+@@
+\\
+
+첫 목적지는 WashburnPoint 입니다.
+Glacier Point를 가는 길에 있습니다.
+가는 길에 들르면 되겠군요.
+
+어느덧 South Entrance에 도착했습니다.
+35불을 내어주니 환영해줍니다.
+
+@@image-center
+![](/assets/images/events/2024/southEntrance.jpg)
+@@
+@@image-caption
+요세미티 공원 South Entrance
+@@
+\\
+
+입구에서 좀 오르다보니 자연이 더스티를 부르는군요.
+마침 Wawona Hotel 입구가 보입니다.
+더스티는 망설임없이 들어섭니다.
+호텔 전경이 아름답군요.
+
+~~~
+<div class="row">
+<div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (5).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (5).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (1).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (1).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (6).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (6).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+
+주변의 고목들도 멋집니다.
+멋진 풍경 속에 예쁜 부인의 사진을 찍지 않을 수 없군요.
+
+~~~
+<div class="row">
+<div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (2).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (2).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (3).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (3).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wawonaHotel (4).jpg">
+      <img src="/assets/images/events/2024/wawonaHotel (4).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+
+잠깐의 휴식 후 다시 길을 떠납니다.
+그런데 차창밖으로 화재의 흔적과 함께 이상한 장면을 목격합니다.
+해가 쨍쨍 쬐는 바깥으로 하얀 눈이 쌓인 듯 합니다.
+바깥 온도를 살펴보니 20도가 약간 안되는 것 같습니다.
+차 안에서 토론이 벌어집니다.
+부인은 눈이라고 주장하고 더스티는 바위라 합니다.
+남편은 처음에는 눈이라고 했다가 다시 바위로 의견을 바꿉니다.
+역시나 부인이 옳았습니다. :+1: :sweat_smile: 
+겨우내 덮여있던 눈이 녹는 중인가 봅니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (1).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (1).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (2).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (2).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (3).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (3).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (4).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (4).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (5).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (5).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (6).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (6).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (7).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (7).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (8).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (8).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (9).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (9).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/wayToWashburn01 (10).jpg">
+      <img src="/assets/images/events/2024/wayToWashburn01 (10).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+
+조금 더 오르다 보니 우측에 Washburn 표시가 있네요.
+냉큼 들어섭니다.
+차에 내려 Washburn 경치를 보니 우와 하는 감탄이 절로 나오네요.
+장엄한 자연 경관이 한 눈에 보여 이래서 요세미티에 오는구나 싶습니다.
+Half Dome, Mt Broderick, Liberty Cap, Nevada Fall과 Vernal Fall이 한 눈에 보이는 대단한 장관이었습니다.
+더스티도 부인도 남편도 엄청난 장관을 눈과 카메라에 담기에 정신이 없습니다.
+셀카를 찍지 않는 남편도 뛰어난 경관에 한번 도전해 봅니다.
+바위 위에 서있는 남편 사진에 부인은 "산할아버지 구름모자 썼네"라고 부제를 붙여봅니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (1).jpg">
+      <img src="/assets/images/events/2024/washburn (1).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (2).jpg">
+      <img src="/assets/images/events/2024/washburn (2).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (3).jpg">
+      <img src="/assets/images/events/2024/washburn (3).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (4).jpg">
+      <img src="/assets/images/events/2024/washburn (4).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (5).jpg">
+      <img src="/assets/images/events/2024/washburn (5).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (6).jpg">
+      <img src="/assets/images/events/2024/washburn (6).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (7).jpg">
+      <img src="/assets/images/events/2024/washburn (7).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (8).jpg">
+      <img src="/assets/images/events/2024/washburn (8).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (9).jpg">
+      <img src="/assets/images/events/2024/washburn (9).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (10).jpg">
+      <img src="/assets/images/events/2024/washburn (10).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (11).jpg">
+      <img src="/assets/images/events/2024/washburn (11).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/washburn (12).jpg">
+      <img src="/assets/images/events/2024/washburn (12).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+~~~
+<center>
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/washburn (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+</center>
+~~~
+\\
+
+엄청난 자연 경관에 대한 경탄을 누르고 다시 차에 올라 Glacier Point로 향합니다.
+Washburn 보다 더 명소로 알려진 Glacier Point이기에 좀 더 큰 기대에 가슴이 두근거립니다.
+드디어 도착했군요.
+인기있는 명소인 만큼 주차장에 차들이 많습니다.
+주차장에서 걸어가는 길에 쌓여있는 눈을 발견합니다.
+부인이 옳았음을 다시 한번 확인합니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (1).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (1).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (2).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (2).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+
+주차장을 나서니 요세미티 밸리로 향하는 트레일도 있군요.
+우리는 Glacier Point로 향합니다.
+휠체어도 다닐 수 있도록 길을 만들었네요.
+도착한 전망대...
+Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전망대로 보게 되네요.
+물론 웅장한 그 절경은 변함없습니다만, 처음 Washburn에서 느꼈던 만큼의 감동은 오지 않았습니다. :unamused:
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (3).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (3).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (4).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (4).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (5).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (5).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (6).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (6).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (7).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (7).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (8).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (8).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (9).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (9).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (10).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (10).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (11).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (11).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (12).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (12).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (13).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (13).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (14).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (14).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (15).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (15).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/glacierPoint (16).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (16).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+~~~
+<center>
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/glacierPoint (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+</center>
+~~~
+\\
+
+웅장하고 멋진 장관을 감상하고 차로 돌아가던 중...
+호사다마일까요.
+부인이 발목을 삐끗 접지르고 맙니다.
+바닥에 움푹 파인 구멍을 미처 보지 못하였던 것이죠. :cry:
+요세미티 관광의 첫 날, 우리는 큰 위기를 맞이하게 되었습니다.
+
+발목이 붓고 통증으로 걷기 힘들어도 부인은 포기하지 않습니다.
+산행을 위해 가져온 지팡이를 딛고서 터널뷰로 향합니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (1).jpg">
+      <img src="/assets/images/events/2024/tunnelView (1).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (2).jpg">
+      <img src="/assets/images/events/2024/tunnelView (2).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (3).jpg">
+      <img src="/assets/images/events/2024/tunnelView (3).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (4).jpg">
+      <img src="/assets/images/events/2024/tunnelView (4).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (5).jpg">
+      <img src="/assets/images/events/2024/tunnelView (5).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (6).jpg">
+      <img src="/assets/images/events/2024/tunnelView (6).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (7).jpg">
+      <img src="/assets/images/events/2024/tunnelView (7).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/tunnelView (8).jpg">
+      <img src="/assets/images/events/2024/tunnelView (8).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+
+본래는 그 후의 여정으로 Bridalveil Fall, Cathedral Beach, Swinging Bridge Picnic Area 등을 들르려 했었지만 오랜 운전 시간과 부인의 부상으로 숙소로 곧장 향하기로 결정하였습니다.
+하지만 남편을 부르는 어머니 자연...
+우리는 화장실이 구비된 Bridalveil Fall 입구에 들렀습니다.
+비록 예정대로 Bridalveil Fall 앞까지 가지는 못했지만 입구에서 폭포의 아름다운 모습을 담아봅니다.
+
+~~~
+<div class="row">
+  <div class="column">
+    <a href="/assets/images/events/2024/bridalveilFall (1).jpg">
+      <img src="/assets/images/events/2024/bridalveilFall (1).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/bridalveilFall (2).jpg">
+      <img src="/assets/images/events/2024/bridalveilFall (2).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/assets/images/events/2024/bridalveilFall (3).jpg">
+      <img src="/assets/images/events/2024/bridalveilFall (3).jpg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+</div>
+~~~
+\\
+
+## 셋째 날 (Yosemite Valley Lodge)
+
+@@image-center
+![](/assets/images/events/2024/day3route.jpg)
+@@
+@@image-caption
+이동 경로
+@@
+\\
+
 
 ## 넷째 날 + 다섯째 날 (Mar Monte Hotel)
 
