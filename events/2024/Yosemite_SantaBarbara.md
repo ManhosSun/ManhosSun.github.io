@@ -732,6 +732,13 @@ Half Dome, Mt Broderick, Liberty Cap, Nevada Fall과 Vernal Fall이 한 눈에 �
     </a>
     <div class="desc">또 다시 준엄한 질책</div>
   </div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/washburn (17).jpg">
+      <img src="/assets/images/events/2024/washburn (17).jpg" alt="Snow" style="width:100%">
+    </a>
+    <div class="desc">깨달음을 얻은 남편에 뿌듯한 부인</div>
+  </div>
+
   <div class="gallery">
     <a href="/assets/images/events/2024/washburn (9).jpg">
       <img src="/assets/images/events/2024/washburn (9).jpg" alt="Forest" style="width:100%">
@@ -903,6 +910,41 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
       <img src="/assets/images/events/2024/glacierPoint (16).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (21).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (21).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (17).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (17).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (18).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (18).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (19).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (19).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (20).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (20).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (22).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (22).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/glacierPoint (23).jpg">
+      <img src="/assets/images/events/2024/glacierPoint (23).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
 <div style="clear: both"></div>
 ~~~
 \\
@@ -966,6 +1008,16 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
       <img src="/assets/images/events/2024/tunnelView (8).jpg" alt="Snow" style="width:100%">
     </a>
   </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/tunnelView (9).jpg">
+      <img src="/assets/images/events/2024/tunnelView (9).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
+  <div class="gallery">
+    <a href="/assets/images/events/2024/tunnelView (10).jpg">
+      <img src="/assets/images/events/2024/tunnelView (10).jpg" alt="Snow" style="width:100%">
+    </a>
+  </div>
 <div style="clear: both"></div>
 ~~~
 \\
@@ -994,6 +1046,160 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 <div style="clear: both"></div>
 ~~~
 \\
+
+드디어 도착한 숙소...
+부인이 최고의 노하우로 예약한, 요세미티 공원 내 최고의 숙박 시설...
+바로 요세미티 랏지입니다.
+체크인을 한 후 라운지에서 간단한 저녁 식사를 합니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/rounge.jpg">
+      <img src="/assets/images/events/2024/rounge.jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">라운지에서도 가르침을 잊지 않은 부인</div>
+  </div>
+<div style="clear: both"></div>
+~~~
+\\
+
+저녁식사 후 부인의 발목상태를 확인한 후 숙소에서 가까운 Lower Yosemite 폭포로 향합니다.
+포장된 길로 이어져 있어 부인의 발목에 큰 무리가 가지는 않을 듯 합니다.
+
+폭포로 향하는 길에 많은 이들이 함께 합니다.
+곳곳에 멋진 풍경도 있고 상쾌하군요.
+드디어 폭포에 다다릅니다.
+강우량이 많았던 지난 겨울 쌓였던 눈이 녹아내리는 좋은 때 방문하여 수량이 많군요.
+시원한 물줄기가 상쾌한 소리와 함께 쏟아집니다.
+장관입니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening.jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening.jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">숙소 주차장에서 보이는 Upper Yosemite 폭포</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (1).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 다소곳한 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (2).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 다소곳한 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (3).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 엄지척 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (4).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 엄지척 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (5).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (5).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (6).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 발랄한 부인 뒷모습</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (7).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 발랄한 부인 뒷모습</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (8).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 발랄한 부인 뒷모습</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (9).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 발랄한 부인 뒷모습</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (10).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (10).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Lower Yosemite 폭포로 가는 길에 발견한 멋진 곳</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (11).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (11).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">멋진 곳에서 남편은 승리</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (12).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (12).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">멋진 곳에서 부인도 찰칵</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (13).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (13).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">드디어 눈 앞에 펼쳐진 Lower Yosemite 폭포</div>
+</div>
+<div style="clear: both"></div>
+~~~
+\\
+
+~~~
+<center>
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/lowerYosemiteFall_evening (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/lowerYosemiteFall_evening (2).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+</center>
+~~~
+\\
+
+폭포를 맘껏 감상한 후 숙소로 돌아와 쉽니다.
+부인이 공들여 예약한 만큼, 숙소도 아늑합니다.
+걱정했던 부인의 발목을 얼음으로 찜질하며 회복을 기원합니다.
+이렇게 요세미티 공원에서의 첫 날이 저뭅니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/yosemiteLodge (1).jpg">
+      <img src="/assets/images/events/2024/yosemiteLodge (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 숙소 화장실</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/yosemiteLodge (2).jpg">
+      <img src="/assets/images/events/2024/yosemiteLodge (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 숙소 침실</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
 
 ## 셋째 날 (Yosemite Valley Lodge)
 
