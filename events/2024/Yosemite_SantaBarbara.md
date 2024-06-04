@@ -1174,6 +1174,14 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
       <source src="/assets/images/events/2024/lowerYosemiteFall_evening (2).mp4" type="video/mp4">
       Your browser does not support the video tag.
 </video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/lowerYosemiteFall_evening (3).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
 </center>
 ~~~
 \\
