@@ -622,7 +622,7 @@ Yosemite Valley Loop Trail 지도
 
 \\
 살펴보니 2022년 Washburn fire라는 큰 산불이 있었군요.
-2022년 7월 11일 발화해서 2022년 8월 1일 진화되었네요.
+2022년 7월 11일 발화해서 2022년 8월 1일 진화되었었네요.
 자나깨나 산불조심!!! :fire:
 
 이렇게 산길을 구비구비 지나다 보니 Yosemite South entrance에 도착하였습니다.
@@ -706,8 +706,9 @@ Yosemite Valley Loop Trail 지도
 해가 쨍쨍 쬐는 바깥으로 하얀 눈이 쌓인 듯 합니다.
 바깥 온도를 살펴보니 20도가 약간 안되는 것 같습니다.
 차 안에서 토론이 벌어집니다.
-부인은 눈이라고 주장하고 더스티는 바위라 합니다.
+부인은 눈이라고 주장하고 더스티는 하얀 페인트를 칠한 것이라 합니다.
 남편은 처음에는 눈이라고 했다가 다시 바위로 의견을 바꿉니다.
+...
 역시나 부인이 옳았습니다. :+1: :sweat_smile: 
 겨우내 덮여있던 눈이 녹는 중인가 봅니다.
 
@@ -1345,6 +1346,64 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 이동 경로
 @@
 \\
+
+안락한 숙소에서 편안한 밤을 보내고 눈을 뜬 아침은 맑고 상쾌합니다.
+지난 밤 날벌레가 두려워 나가 보지 못했던 발코니에 나가 봅니다.
+더 없이 상쾌한 요세미티 공원의 아침 풍경을 감상합니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeMorning (1).jpg">
+      <img src="/assets/images/events/2024/lodgeMorning (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 발코니에서 본 아침 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeMorning (2).jpg">
+      <img src="/assets/images/events/2024/lodgeMorning (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 발코니에서 본 아침 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeMorning (3).jpg">
+      <img src="/assets/images/events/2024/lodgeMorning (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 발코니에서 본 아침 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeMorning (4).jpg">
+      <img src="/assets/images/events/2024/lodgeMorning (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 발코니에서 본 아침 풍경</div>
+</div>
+
+
+<div style="clear: both"></div>
+~~~
+
+~~~
+<center>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/lodgeMorning (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+</center>
+~~~
+\\
+
+오늘의 일정은 Mist trail을 통해 Vernal 폭포까지 가는 것입니다. 
+걱정했던 부인의 발목도 살짝 붓긴 했지만 크게 상태가 악화되지는 않았습니다.
+산행을 조심스럽게 해도 될 듯 합니다.
+
+숙소에서 간단한 아침 식사를 마친 후, 우리는 셔틀 버스를 타고 Curry Village로 향합니다.
+가장 가까운 셔틀버스 정류장은 16번 Happy Isles 정류장이지만 Curry Village 인근 공사로 정류장들이 문을 닫아 Curry Village 호텔 앞에서 내립니다.
+
+
 
 
 ## 넷째 날 + 다섯째 날 (Mar Monte Hotel)
