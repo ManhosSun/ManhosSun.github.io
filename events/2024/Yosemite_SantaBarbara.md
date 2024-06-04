@@ -1075,8 +1075,8 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 
 ~~~
 <div class="gallery">
-    <a href="/assets/images/events/2024/lowerYosemiteFall_evening.jpg">
-      <img src="/assets/images/events/2024/lowerYosemiteFall_evening.jpg" alt="Forest" style="width:100%">
+    <a href="/assets/images/events/2024/lowerYosemiteFall_evening (15).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFall_evening (15).jpg" alt="Forest" style="width:100%">
     </a>
     <div class="desc">숙소 주차장에서 보이는 Upper Yosemite 폭포</div>
 </div>
