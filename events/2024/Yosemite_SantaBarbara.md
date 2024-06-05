@@ -1396,15 +1396,889 @@ Washburn에서 보았던 광경을 좀 더 다른 각도로, 좀 더 넓은 전�
 ~~~
 \\
 
-오늘의 일정은 Mist trail을 통해 Vernal 폭포까지 가는 것입니다. 
+오늘의 일정은 Mist Trail을 통해 Vernal 폭포까지 가는 것입니다. 
 걱정했던 부인의 발목도 살짝 붓긴 했지만 크게 상태가 악화되지는 않았습니다.
 산행을 조심스럽게 해도 될 듯 합니다.
 
 숙소에서 간단한 아침 식사를 마친 후, 우리는 셔틀 버스를 타고 Curry Village로 향합니다.
-가장 가까운 셔틀버스 정류장은 16번 Happy Isles 정류장이지만 Curry Village 인근 공사로 정류장들이 문을 닫아 Curry Village 호텔 앞에서 내립니다.
+셔틀 버스를 타고 창 밖을 바라보니 아침 풍경이 볼 만 합니다.
+몇몇 명소나 경치가 좋은 곳에는 이미 많은 사람들이 차를 대고 즐기고 있고, 도로 옆으로도 몇몇 이들이 걸어 지나갑니다.
 
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/shuttleView (1).jpg">
+      <img src="/assets/images/events/2024/shuttleView (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Curry Village를 향하는 셔틀에서 바라본 Bridalveil Fall</div>
+</div>
 
+<div class="gallery">
+    <a href="/assets/images/events/2024/shuttleView (2).jpg">
+      <img src="/assets/images/events/2024/shuttleView (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Curry Village를 향하는 셔틀에서 바라본 Bridalveil Fall</div>
+</div>
 
+<div class="gallery">
+    <a href="/assets/images/events/2024/shuttleView (3).jpg">
+      <img src="/assets/images/events/2024/shuttleView (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 공원을 걷고 있는 관광객들</div>
+</div>
+<div style="clear: both"></div>
+~~~
+\\
+
+본래 Vernal 폭포를 향하는 Mist Trail로 가기에 가장 가까운 셔틀버스 정류장은 16번 Happy Isles 정류장이지만, Curry Village 인근 공사로 정류장들이 문을 닫아 Curry Village 호텔 앞에서 내립니다.
+호텔 주차장을 가로질러 Mist Trail로 향하는 Happy Isles Loop Road를 따라 걸어갑니다.
+가는 길에 보이는 풍경들이 멋집니다.
+사진으로 담아봐야 겠습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (1).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Curry Village 주차장에서 바라본 Glacier Point 방향 경치</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (2).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Curry Village 주차장에서 엄지척 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (3).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mist Trail로 향하는 소로에서의 경치</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (4).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mist Trail로 향하는 소로에서의 경치</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (5).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mist Trail로 향하는 소로에서의 경치</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (6).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mist Trail로 향하는 소로에서의 경치</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryGlacierPoint (7).jpg">
+      <img src="/assets/images/events/2024/curryGlacierPoint (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mist Trail로 향하는 소로에서의 경치</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+걷다보니 시원한 물소리가 나며 멋진 다리가 나타납니다.
+Happy Isles Bridge입니다.
+시원하게 흐르는 물줄기를 사진과 동영상으로 담아 봅니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (1).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mt Broderick을 배경으로 다리 옆 물줄기를 바라보는 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (2).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">부인이 바라보았던 물줄기</div>
+</div>
+<div style="clear: both"></div>
+~~~
+\\
+
+~~~
+<center>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/happyIslesBridge (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/happyIslesBridge (2).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+</center>
+~~~
+\\
+
+다리를 지나 이곳 저곳 풍경이 나쁘지 않습니다.
+사진으로 담아야겠습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (3).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (3).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (4).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (4).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (5).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Mist Trail을 향하는 더스티와 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (6).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (6).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/happyIslesBridge (7).jpg">
+      <img src="/assets/images/events/2024/happyIslesBridge (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">발목 부상에도 불구하고 멋진 춤사위를 펼친 부인</div>
+</div>
+<div style="clear: both"></div>
+~~~
+\\
+
+계속해서 Mist Trail로 향합니다.
+구비 구비 멋진 풍경이 펼쳐집니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (2).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (2).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (3).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (3).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (4).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (4).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (5).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">돌벽 앞의 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (6).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (6).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (7).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (7).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (8).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (8).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (9).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (9).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (10).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (10).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (12).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (12).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (14).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (14).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toMistTrail (15).jpg">
+      <img src="/assets/images/events/2024/toMistTrail (15).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div style="clear: both"></div>
+~~~
+\\
+
+~~~
+<center>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/toMistTrail (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/toMistTrail (2).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/toMistTrail (3).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/toMistTrail (4).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/toMistTrail (5).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+</center>
+~~~
+\\
+
+드디어 Mist Trail Head로 향하는 Vernal Falls Foot Bridge 다리가 나옵니다.
+흐르는 물이 장관이네요.
+사진을 찍지 않을 수 없습니다.
+부인도 홀린 듯 셀카를 찍습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (5).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Vernal Falls Foot Bridge에서 부인의 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (3).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">한 장으로는 부족한 부인의 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (4).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Vernal Falls Foot Bridge에서 부인 하트</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (1).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Vernal Falls Foot Bridge에서 남편 엄지척</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (2).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Vernal Falls Foot Bridge에서 남편 하트</div>
+</div>
+<div style="clear: both"></div>
+~~~
+\\
+
+~~~
+<center>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFallsFootBridge (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+</center>
+~~~
+\\
+
+Mist Trail을 걸어 올라가다 보니 드디어 보이기 시작한 Vernal Falls!!!
+조금씩 물기가 올라오고 물소리도 커집니다.
+이름과 걸맞게 물안개도 피어 있습니다.
+사전에 살펴본 정보로는 물이 많이 튀어 비옷을 입고 가야한다고 알고 있었습니다만 내려오는 사람들도 그렇고 조금 젓는 정도는 괜찮을 것 같습니다.
+간단한 의견 타진 후 준비한 우의 판초는 없어도 상관없다고 결정합니다.
+폭포를 향해 전진합니다.
+
+음...
+잘못된 결정이었군요.
+가까이 갈 수록 튀는 물의 양이 장난이 아닙니다.
+준족을 자랑하며 이미 사라진 더스티는 어쩔 수 없습니다.
+부인과 남편은 급히 준비한 비닐 우의를 착용합니다.
+하지만 엄청난 물의 양과 바람은 간단한 우의 만으로 머리와 옷이 젓는 것을 막을 수 없게 하는군요.
+조금씩 험해지는 길과 물에 젖어 미끄러운 바닥은 폭포로의 접근을 더욱 힘들게 합니다.
+엄청난 장관을 옆에 두고서도 감히 한 눈을 팔 수는 없군요.
+부인 발목의 부상이 걱정되지만 천천히 조심해서 폭포를 오릅니다.
+
+어렵게 폭포의 정상에 도달합니다.
+정상에서 보는 폭포의 장관이 엄청납니다.
+물에 젖은 머리와 옷을 따뜻한 햇볕에 말리며 정상의 돌바닥에 주저 앉아 조금 숨을 돌립니다.
+눈으로 사진으로 폭포의 장관을 한껏 담아봅니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (2).jpg">
+      <img src="/assets/images/events/2024/vernalFall (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">드디어 보이기 시작한 Vernal Fall</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (3).jpg">
+      <img src="/assets/images/events/2024/vernalFall (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">우의를 착용하고 흐뭇한 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (4).jpg">
+      <img src="/assets/images/events/2024/vernalFall (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">투명 날개옷을 입은 선녀 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (5).jpg">
+      <img src="/assets/images/events/2024/vernalFall (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">우의 착용 후 부인을 향해 경례!</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (6).jpg">
+      <img src="/assets/images/events/2024/vernalFall (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">젖은 머리 남편과 뽀송한 부인의 셀카</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (8).jpg">
+      <img src="/assets/images/events/2024/vernalFall (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 하단의 무지개</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (9).jpg">
+      <img src="/assets/images/events/2024/vernalFall (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상을 향해 영차</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (10).jpg">
+      <img src="/assets/images/events/2024/vernalFall (10).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (11).jpg">
+      <img src="/assets/images/events/2024/vernalFall (11).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (12).jpg">
+      <img src="/assets/images/events/2024/vernalFall (12).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (13).jpg">
+      <img src="/assets/images/events/2024/vernalFall (13).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (14).jpg">
+      <img src="/assets/images/events/2024/vernalFall (14).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (15).jpg">
+      <img src="/assets/images/events/2024/vernalFall (15).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상을 노리다 잠시 휴식한 부인의 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (16).jpg">
+      <img src="/assets/images/events/2024/vernalFall (16).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상을 노리다 새앙쥐가 된 남편의 엄지척</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (17).jpg">
+      <img src="/assets/images/events/2024/vernalFall (17).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">부인의 승리를 함께 축하하는 젖은 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (18).jpg">
+      <img src="/assets/images/events/2024/vernalFall (18).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 물안개를 뚫고 나온 부인의 미모</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (19).jpg">
+      <img src="/assets/images/events/2024/vernalFall (19).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 물안개를 뚫고 나온 부인의 아름다움</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (20).jpg">
+      <img src="/assets/images/events/2024/vernalFall (20).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 내려다 본 물줄기</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (21).jpg">
+      <img src="/assets/images/events/2024/vernalFall (21).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 Glacier Point 방향으로 바라본 풍경</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (22).jpg">
+      <img src="/assets/images/events/2024/vernalFall (22).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 전망대 방향으로 돌진하는 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (23).jpg">
+      <img src="/assets/images/events/2024/vernalFall (23).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포로 다가가는 물줄기</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (24).jpg">
+      <img src="/assets/images/events/2024/vernalFall (24).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 Mt Broderick 방향으로 바라본 풍경</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (25).jpg">
+      <img src="/assets/images/events/2024/vernalFall (25).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포로 떨어지는 물줄기</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (26).jpg">
+      <img src="/assets/images/events/2024/vernalFall (26).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 Clark Point 방향으로 바라본 바위 절벽</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (27).jpg">
+      <img src="/assets/images/events/2024/vernalFall (27).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 바라본 폭포 하류</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (28).jpg">
+      <img src="/assets/images/events/2024/vernalFall (28).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 바라본 Liberty Cap</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (29).jpg">
+      <img src="/assets/images/events/2024/vernalFall (29).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 바라본 Liberty Cap</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (30).jpg">
+      <img src="/assets/images/events/2024/vernalFall (30).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포를 정복한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (31).jpg">
+      <img src="/assets/images/events/2024/vernalFall (31).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포에 승리한 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (32).jpg">
+      <img src="/assets/images/events/2024/vernalFall (32).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (33).jpg">
+      <img src="/assets/images/events/2024/vernalFall (33).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상 풍경</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (37).jpg">
+      <img src="/assets/images/events/2024/vernalFall (37).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (38).jpg">
+      <img src="/assets/images/events/2024/vernalFall (38).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (39).jpg">
+      <img src="/assets/images/events/2024/vernalFall (39).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (40).jpg">
+      <img src="/assets/images/events/2024/vernalFall (40).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (42).jpg">
+      <img src="/assets/images/events/2024/vernalFall (42).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (43).jpg">
+      <img src="/assets/images/events/2024/vernalFall (43).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (45).jpg">
+      <img src="/assets/images/events/2024/vernalFall (45).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 댄싱퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (41).jpg">
+      <img src="/assets/images/events/2024/vernalFall (41).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 셀카퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (44).jpg">
+      <img src="/assets/images/events/2024/vernalFall (44).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 셀카퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (53).jpg">
+      <img src="/assets/images/events/2024/vernalFall (53).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 셀카퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (54).jpg">
+      <img src="/assets/images/events/2024/vernalFall (54).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 셀카퀸이 된 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (46).jpg">
+      <img src="/assets/images/events/2024/vernalFall (46).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 셀카킹이 된 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (47).jpg">
+      <img src="/assets/images/events/2024/vernalFall (47).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 푸근한 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (48).jpg">
+      <img src="/assets/images/events/2024/vernalFall (48).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 푸근한 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (49).jpg">
+      <img src="/assets/images/events/2024/vernalFall (49).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 푸근한 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (50).jpg">
+      <img src="/assets/images/events/2024/vernalFall (50).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 즐거운 부인과 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (52).jpg">
+      <img src="/assets/images/events/2024/vernalFall (52).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 즐거운 부인과 남편 파트 2</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (51).jpg">
+      <img src="/assets/images/events/2024/vernalFall (51).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 정상에서 흑막이 된 더스티</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (55).jpg">
+      <img src="/assets/images/events/2024/vernalFall (55).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포를 내려가다 셀카퀸이 된 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (56).jpg">
+      <img src="/assets/images/events/2024/vernalFall (56).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">욕심껏 4개의 폴을 움켜쥐고 폭포를 내려가는 검은 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (57).jpg">
+      <img src="/assets/images/events/2024/vernalFall (57).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폴에 과욕을 부리면서 폭포를 내려가는 검정 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (58).jpg">
+      <img src="/assets/images/events/2024/vernalFall (58).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편과 부인이 떠나도 변함없는 폭포</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (59).jpg">
+      <img src="/assets/images/events/2024/vernalFall (59).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편과 부인이 떠나도 변함없는 폭포</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFall (61).jpg">
+      <img src="/assets/images/events/2024/vernalFall (61).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편과 부인이 떠나도 변함없는 무지개</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+~~~
+<center>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFall (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFall (2).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFall (3).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFall (4).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFall (5).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/vernalFall (6).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+</center>
+~~~
+\\
+
+웅장한 폭포의 감동을 뒤로 하고 하산길에 오른 남편과 부인...
+준비해 간 등산 폴의 덕을 톡톡히 보며 조심 조심 산을 내려 옵니다.
+한참 걷다 보니 Vernal Falls Foot Bridge에 도착했습니다.
+올라갈 때 보았던 그 모습 그대로 남편과 부인을 기다려 주었던 다리 위에서 사진을 찍습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (6).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">기다려준 다리 위에서 남편 미소</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (7).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">기다려준 다리에게 부인 미소</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (8).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">기다려준 다리에게 부인 미소</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/vernalFallsFootBridge (9).jpg">
+      <img src="/assets/images/events/2024/vernalFallsFootBridge (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">하산하는 남편과 부인을 묵묵히 지켜봐 준 Vernal 폭포와 Liberty Cap</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+다리를 지나 Curry Village로 길을 재촉합니다.
+돌아오며 새로운 각도로 보여지는 풍경이 좋습니다.
+길 모퉁이를 도는 부인 모습이 풍경과 아주 잘 어울립니다.
+급히 사진을 찍습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (1).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">오후에도 멋진 하산길 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (2).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (3).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (4).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (5).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (6).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (7).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toCurryVillage (8).jpg">
+      <img src="/assets/images/events/2024/toCurryVillage (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">풍경과 잘 어울어진 부인의 하산길</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+산을 거의 내려오는데 한참 먼저 내려갔던 더스티가 멋적은 웃음을 지으며 다가옵니다.
+또 다시 아뿔싸!!!
+더스티도 발목을 접질렀군요.
+걷는 것이 불편해 보입니다.
+여행에 닥쳐온 두번째 위기...
+많이 다치지는 않았나 걱정이 되는군요.
+상태를 지켜봐야 겠습니다.
+
+Curry Village에 도착했군요.
+이미 저녁 식사를 할 시간이 되었습니다.
+Curry Village에서 판매하는 핏자가 맛이 있다는 소문입니다.
+그냥 갈 순 없지요.
+요세미티 공원의 명소인 El Capitan의 이름을 딴 컴비네이션 핏자를 주문합니다.
+소시지와 올리브 등등 여러 가지 재료로 꽉찬 핏자 군요.
+
+첫입은 맛있었지만 계속 먹으니 남편과 부인의 입맛에는 너무 짠 핏자였습니다.
+차라리 기본 핏자로 주문하는 것이 좋았겠다 싶었지만 Curry Village 명품인 핏자도 미션 완료했습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/curryVillagePizza.jpg">
+      <img src="/assets/images/events/2024/curryVillagePizza.jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Curry Village 명물 핏자집</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+이제 핏자를 맛있게 먹고 숙소로 돌아갈 때입니다.
+셔틀버스가 마침 왔군요.
+바로 올라타고 숙소로 향합니다.
+
+무사히 숙소에 도착한 일행...
+이틀의 숙소를 따로 예약한 더스티가 오늘 묵을 숙소는 남편과 부인의 숙소와 가깝습니다.
+발목을 다친 더스티와 부인을 위해 얼음을 준비하는 남편...
+그나마 가까와진 더스티의 숙소가 조금 도움이 되는군요.
+
+요세미티에서의 마지막 밤, 남편과 부인은 숙소 앞에서 밤하늘을 살펴봅니다.
+숙소 근처라 주변이 밝지만 그래도 꽤 많은 별이 보입니다.
+그 중 북두칠성이 바로 머리 위에 선명히 보이는 군요.
+사진을 찍을 요량으로 남편이 핸드폰을 들이 대지만 별이 제대로 찍히지는 않습니다.
+눈으로만 감상해야 하겠습니다.
+
+하루의 모든 일정을 마치고 피곤한 몸을 침대에 뉘웁니다.
+산행을 감행한 부인의 발목과 꽤 많이 다친 듯한 더스티 발목 모두 걱정입니다.
+다음날 크게 악화되지 않기를 바라며 눈을 감습니다.
 
 ## 넷째 날 + 다섯째 날 (Mar Monte Hotel)
 
