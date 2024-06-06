@@ -245,7 +245,7 @@ Tunnel View
 \\
 
 **Tunnel View**는 미국 요세미티 국립공원 내 Wawona Tunnel의 동쪽 끝, Wawona Road (Highway 41)에 위치한 경치 좋은 전망대입니다. 
-이 전망대는 1933년 개장 이후로 방문객들이 요세미티 계곡의 상징적이고 광활한 경치를 보고 기록해 왔습니다³. 
+이 전망대는 1933년 개장 이후로 방문객들이 요세미티 계곡의 상징적이고 광활한 경치를 보고 기록해 왔습니다. 
 
 Tunnel View에서는 요세미티 계곡을 둘러싼 화강암 벽의 거대함을 보여주며, El Capitan, Half Dome, Sentinel Rock, Cathedral Rocks, 그리고 Bridalveil Fall의 클래식한 전망을 제공합니다. 
 특히 일몰이나 폭풍이 지나간 후의 경치는 더욱 화려합니다.
@@ -254,7 +254,7 @@ Wawona Tunnel은 1931년 1월 30일에 건설이 시작되어 1933년 6월 18일
 거의 1마일 길이의 터널을 만들기 위해 약 230톤의 다이너마이트를 사용하여 화강암을 뚫었습니다. 
 Tunnel View와 Wawona Tunnel은 "National Register of Historic Places"에 등재되어 있습니다.
 
-#### El Capitan
+### El Capitan
 
 @@image-center
 ![](/assets/images/events/2024/El_Capitan.jpg)
@@ -273,7 +273,7 @@ El Capitan의 이름은 1851년에 계곡을 탐험하던 Mariposa Battalion에 
 El Capitan은 스페인어로 "대장"이나 "족장"을 의미하며, 이는 현지 원주민의 바위에 대한 이름인 “Tutokanula” 또는 "Rock Chief"의 대략적인 스페인어 번역입니다.
 
 
-#### Half Dome
+### Half Dome
 
 @@image-center
 ![](/assets/images/events/2024/Half_Dome_from_Glacier_Point.jpg)
@@ -299,7 +299,7 @@ Half Dome Cable Route
 @@
 \\
 
-#### Sentinel Rock
+### Sentinel Rock
 
 @@image-center
 ![](/assets/images/events/2024/SentinelRock.jpg)
@@ -317,7 +317,7 @@ Sentinel Rock은 요세미티 계곡의 남쪽 절벽에서 대량의 암석이 
 이로 인해 Sentinel Rock의 북쪽 면은 거의 수직으로 형성되었습니다.
 
 
-#### Cathedral Rocks
+### Cathedral Rocks
 
 @@image-center
 ![](/assets/images/events/2024/Cathedral_Rocks.jpg)
@@ -525,7 +525,34 @@ Yosemite Valley Loop Trail 지도
 @@
 \\
 
+### Mar Monte Hotel
+산타 바바라 해변에 위치한 고급 호텔입니다.
+우리가 여행의 마지막 이틀을 묵을 곳이죠.
+호텔 사이트에서 호텔 전경과 우리가 묵을 객실, 야외 수영장 사진을 찾았습니다.
 
+@@image-center
+![](/assets/images/events/2024/Mar-Monte-HotelAerial-View-Beach.webp)
+@@
+@@image-caption
+Mar Monte Hotel 전경
+@@
+\\
+
+@@image-center
+![](/assets/images/events/2024/Mar-Monte-Hotel-King-Bed.webp)
+@@
+@@image-caption
+King 베드 침실
+@@
+\\
+
+@@image-center
+![](/assets/images/events/2024/Mar-Monte-Hotel-Pool.webp)
+@@
+@@image-caption
+Pool
+@@
+\\
 
 
 ## 첫째 날 (Hyatt Place Fresno)
@@ -2280,28 +2307,1552 @@ Curry Village에서 판매하는 핏자가 맛이 있다는 소문입니다.
 산행을 감행한 부인의 발목과 꽤 많이 다친 듯한 더스티 발목 모두 걱정입니다.
 다음날 크게 악화되지 않기를 바라며 눈을 감습니다.
 
-## 넷째 날 + 다섯째 날 (Mar Monte Hotel)
+## 넷째 날 (Mar Monte Hotel)
+요세미티 공원에서의 마지막 날 아침이 밝았습니다.
+다행히 부인의 발목은 심하게 악화되지는 않았습니다.
+조금은 이른 아침, 요세미티 공원을 떠나기 전에 Lower Yosemite Falls를 들러보기로 합니다.
+숙소를 나와 머물렀던 숙소 전경을 사진으로 담아 봅니다.
 
 @@image-center
-![](/assets/images/events/2024/Mar-Monte-HotelAerial-View-Beach.webp)
+![](/assets/images/events/2024/lodge.jpg)
 @@
 @@image-caption
-Mar Monte Hotel 전경
+이틀을 머물렀던 요세미티 숙소
 @@
 \\
 
-@@image-center
-![](/assets/images/events/2024/Mar-Monte-Hotel-King-Bed.webp)
-@@
-@@image-caption
-King 베드 침실
-@@
+숙소에서 폭포로 가는 길은 랏지 주차장을 거쳐갑니다.
+주차장에서도 풍경이 좋습니다.
+화강암 절벽들과 Upper Yosemite 폭포가 보이네요.
+사진에 담아봅니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeParkingLot (1).jpg">
+      <img src="/assets/images/events/2024/lodgeParkingLot (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 주차장에서 본 아침 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeParkingLot (2).jpg">
+      <img src="/assets/images/events/2024/lodgeParkingLot (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 주차장에서 본 아침 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeParkingLot (3).jpg">
+      <img src="/assets/images/events/2024/lodgeParkingLot (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 주차장에서 본 Upper Yosemite Falls</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeParkingLot (4).jpg">
+      <img src="/assets/images/events/2024/lodgeParkingLot (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite Lodge 주차장에서 본 Upper Yosemite Falls</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeParkingLot (5).jpg">
+      <img src="/assets/images/events/2024/lodgeParkingLot (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Upper Yosemite Falls 남편 엄지척</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lodgeParkingLot (6).jpg">
+      <img src="/assets/images/events/2024/lodgeParkingLot (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Upper Yosemite Falls를 배경으로 평온한 부인</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
 \\
 
-@@image-center
-![](/assets/images/events/2024/Mar-Monte-Hotel-Pool.webp)
-@@
-@@image-caption
-Pool
-@@
+간단한 사진 촬영 후 다시 걸음을 재촉합니다.
+Lower Yosemite Falls Trail에 들어서니 첫날 저녁 때 지나쳤던 예쁜 장소들이 눈에 들어옵니다.
+사진 촬영의 순간이 돌아왔군요.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (1).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Trail 입구에서 남편과 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (2).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">통나무에 기댄 부인 (통나무 안보이는 ver.)</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (3).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">통나무에 기댄 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (4).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">통나무를 깔고 앉은 남편 엄지척</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (5).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 향해 당당한 부인 뒷모습</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (6).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 흐뭇한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (8).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Yosemite 폭포를 배경으로 남편 엄지척</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (9).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Trail에서 부인을 반겨준 머리뾰족새</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (10).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (10).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Trail에서 부인을 반겨준 머리뾰족새</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (11).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (11).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Trail에서 부인을 반겨준 머리뾰족새</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (12).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (12).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Trail에서 기대에 찬 부인 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (13).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (13).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Trail에서 기대에 찬 부인과 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (14).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (14).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">화강암 바위 앞 부인의 승리</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (15).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (15).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편 화강암 엄지척</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (16).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (16).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">화강암의 균열을 소개하는 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (17).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (17).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">균열 속으로 들어가려는 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (18).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (18).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">균열에 승리한 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (19).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (19).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배한 균열을 가여워하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (20).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (20).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">균열에게 승리한 남편을 축하하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (21).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (21).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">균열의 패배에 봉기한 바위들에게 둘러싸인 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (22).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (22).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">바위들을 손가락 하나로 여유있게 제압한 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFallsTrail (23).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFallsTrail (23).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">제압된 바위를 가엽게 여긴 부인</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
 \\
+
+조금 더 걷다보니 폭포에 다달았습니다.
+오전 일찍 오니 사람도 별로 없고 폭포를 맘껏 즐길 수 있어 좋습니다.
+이런 폭포 옆에서 살면서 이렇게 자주 산책할 수 있으면 좋겠다 싶네요.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (1).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">아침이라 한가한 폭포 앞</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (2).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 앞으로 홀린 듯 다가가는 부인의 뒷모습</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (3).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 앞으로 홀린 듯 다가가는 부인의 뒷모습</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (4).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 앞으로 홀린 듯 다가가는 부인의 뒷모습</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (5).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포 앞으로 홀린 듯 다가가는 부인의 뒷모습</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (6).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">아침에도 열심인 폭포에게 남편이 엄지척</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (7).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">엄지척 한번은 정이 없어요</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (8).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">엄지척은 삼세번</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (9).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포의 정신공격을 이겨낸 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (10).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (10).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포를 이겨내 뿌듯한 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (11).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (11).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배에 눈물을 흘리는 폭포</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (12).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (12).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">폭포를 이겼으니 파이팅!</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (13).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (13).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">승리의 여운을 즐기는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (14).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (14).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">승리가 뿌듯한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (15).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (15).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">승리를 즐기는 부인과 함께 축하하는 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (16).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (16).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">승리를 즐기는 부인과 함께 축하하는 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (17).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (17).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">승리를 즐기는 부인과 함께 축하하는 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/lowerYosemiteFalls (18).jpg">
+      <img src="/assets/images/events/2024/lowerYosemiteFalls (18).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배하고 굴복한 폭포를 뒤로 한 남편과 부인</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+~~~
+<center>
+<video width="70%" styles="" controls>
+      <source src="/assets/images/events/2024/lowerYosemiteFalls (1).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
+
+</center>
+~~~
+\\
+
+폭포 감상을 마치고 다시 숙소로 돌아갑니다.
+돌아가는 길에도 추억 사냥은 계속 됩니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (1).jpg">
+      <img src="/assets/images/events/2024/toLodge (1).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (2).jpg">
+      <img src="/assets/images/events/2024/toLodge (2).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (3).jpg">
+      <img src="/assets/images/events/2024/toLodge (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">안이 파여 멋진 나무</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (4).jpg">
+      <img src="/assets/images/events/2024/toLodge (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무 안으로 들어가기 전 몸가짐을 바로 하는 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (5).jpg">
+      <img src="/assets/images/events/2024/toLodge (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무 안으로 들어간 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (6).jpg">
+      <img src="/assets/images/events/2024/toLodge (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무 안으로 들어가 머리를 기울인 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (7).jpg">
+      <img src="/assets/images/events/2024/toLodge (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">부인의 나무 안 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (8).jpg">
+      <img src="/assets/images/events/2024/toLodge (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무 안 부인 클로즈업</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (9).jpg">
+      <img src="/assets/images/events/2024/toLodge (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무 안 남편 엄지척</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (10).jpg">
+      <img src="/assets/images/events/2024/toLodge (10).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무 안 남편 엄지척 ver.2</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (11).jpg">
+      <img src="/assets/images/events/2024/toLodge (11).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">버릇 없이 덤빈 나무에게 승리한 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (12).jpg">
+      <img src="/assets/images/events/2024/toLodge (12).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편의 승리를 함께 기뻐한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (13).jpg">
+      <img src="/assets/images/events/2024/toLodge (13).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배한 나무를 가엾게 여기는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (14).jpg">
+      <img src="/assets/images/events/2024/toLodge (14).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">부인의 간지러움 공격에 크게 당한 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (15).jpg">
+      <img src="/assets/images/events/2024/toLodge (15).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">부인의 공격에 흐뭇해 하는 부인과 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (16).jpg">
+      <img src="/assets/images/events/2024/toLodge (16).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">아름다운 자연에 기쁨을 분출하는 부인과 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (17).jpg">
+      <img src="/assets/images/events/2024/toLodge (17).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">밝은 미래로 향하는 트레일</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (18).jpg">
+      <img src="/assets/images/events/2024/toLodge (18).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">트레일 위에서 행복한 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (19).jpg">
+      <img src="/assets/images/events/2024/toLodge (19).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">트레일 위에서 행복한 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (20).jpg">
+      <img src="/assets/images/events/2024/toLodge (20).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배로 점철된 트레일의 모든 것을 가엾게 여기는 부인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (21).jpg">
+      <img src="/assets/images/events/2024/toLodge (21).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">행복으로 향하는 트레일</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (22).jpg">
+      <img src="/assets/images/events/2024/toLodge (22).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">건강으로 향하는 트레일</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (23).jpg">
+      <img src="/assets/images/events/2024/toLodge (23).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">나무들의 합공을 이겨낸 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (24).jpg">
+      <img src="/assets/images/events/2024/toLodge (24).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편에게 패배한 나무들을 위로하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (25).jpg">
+      <img src="/assets/images/events/2024/toLodge (25).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">트레일에 있는 요세미티 폭포 청동 모형</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (26).jpg">
+      <img src="/assets/images/events/2024/toLodge (26).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">청동 모형 이름표</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (27).jpg">
+      <img src="/assets/images/events/2024/toLodge (27).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">돌아오는 길의 랏지 주차장 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (28).jpg">
+      <img src="/assets/images/events/2024/toLodge (28).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">돌아오는 길의 랏지 주차장 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (29).jpg">
+      <img src="/assets/images/events/2024/toLodge (29).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">돌아오는 길의 랏지 주차장 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (30).jpg">
+      <img src="/assets/images/events/2024/toLodge (30).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배에도 굴하지 않은 폭포</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (31).jpg">
+      <img src="/assets/images/events/2024/toLodge (31).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">패배에도 굴하지 않은 폭포</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (32).jpg">
+      <img src="/assets/images/events/2024/toLodge (32).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">랏지로 돌아온 부인 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (33).jpg">
+      <img src="/assets/images/events/2024/toLodge (33).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">랏지로 돌아온 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (34).jpg">
+      <img src="/assets/images/events/2024/toLodge (34).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">돌아오는 길의 랏지 주차장 풍경</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/toLodge (35).jpg">
+      <img src="/assets/images/events/2024/toLodge (35).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">승리를 만끽하며 숙소로 돌아가는 부인의 뒷모습</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+숙소에 도착해 간단한 아침을 먹으며 출발 준비를 하고 있으니 더스티에게서 연락이 옵니다.
+전날 다친 발목 상태가 그리 좋지 않은가 봅니다.
+운전에는 무리가 없지만 제대로 걷지 못하고 절뚝 거리는 모양입니다.
+산타 바바라까지의 여정을 취소하고 집에 돌아가 회복하는 것은 어떠냐는 의견에 그 정도는 아니라 합니다.
+서둘러 정리를 마치고 체크아웃을 합니다.
+
+돌아가는 차 안에서 요세미티 공원을 나가기 전 마지막으로 풍경을 담습니다.
+아쉬움에 셔터를 많이 누릅니다.
+달리는 차 안에서 찍은 사진들이라 아쉬운 사진들이 많군요.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (1).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (1).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (2).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (2).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (8).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (8).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (9).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (9).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (10).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (10).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (13).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (13).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (14).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (14).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (16).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (16).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (17).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (17).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (18).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (18).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (19).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (19).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (21).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (21).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (23).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (23).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (24).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (24).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (25).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (25).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (26).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (26).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (27).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (27).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (28).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (28).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (29).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (29).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (30).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (30).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (31).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (31).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (32).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (32).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (38).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (38).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (39).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (39).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (41).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (41).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (42).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (42).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (44).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (44).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (45).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (45).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (47).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (47).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (49).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (49).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (51).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (51).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (52).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (52).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (54).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (54).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (55).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (55).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (57).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (57).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (58).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (58).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (59).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (59).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (63).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (63).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (64).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (64).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (65).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (65).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (66).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (66).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (67).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (67).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (68).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (68).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (69).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (69).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (71).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (71).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (72).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (72).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (73).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (73).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (74).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (74).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (75).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (75).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">자연 경관에 지친 눈을 쉬게해 줄 자동차 뒷자석 남편 셀카</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (77).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (77).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (78).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (78).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (79).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (79).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (81).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (81).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (82).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (82).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (85).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (85).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (87).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (87).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (89).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (89).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (90).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (90).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (91).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (91).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (92).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (92).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (93).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (93).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (94).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (94).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (95).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (95).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (96).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (96).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (97).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (97).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (98).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (98).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (100).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (100).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (103).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (103).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (104).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (104).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (105).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (105).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (106).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (106).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (107).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (107).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (108).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (108).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (109).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (109).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (110).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (110).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leavingYosemite (111).jpg">
+      <img src="/assets/images/events/2024/leavingYosemite (111).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+차는 계속 달려 South Entrance를 지나 드디어 요세미티 공원을 빠져 나갑니다.
+공원아, 안녕!
+공원을 나오니 엄청난 화강암 절벽들은 사라져도 소나무와 멀리 보이는 산등성이들이 보기 좋습니다.
+화재로 검게 탄 나무들이 특별한 광경을 연출하기도 합니다.
+공원을 나와서도 남편의 전화기는 사진을 찍느라 불을 뿜습니다.
+전망대에 잠깐 멈춰 부인과 남편의 사진을 찍기도 합니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (1).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (1).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (2).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (2).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (3).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (3).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (6).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (6).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (7).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (7).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (8).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (8).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (9).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (9).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (11).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (11).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (12).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (12).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (13).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (13).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (14).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (14).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (15).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (15).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (16).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (16).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (18).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (18).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (19).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (19).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (20).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (20).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (21).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (21).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (22).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (22).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (23).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (23).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (27).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (27).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (29).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (29).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (30).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (30).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (31).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (31).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (32).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (32).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (33).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (33).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (34).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (34).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (36).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (36).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (37).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (37).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (38).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (38).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (39).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (39).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (41).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (41).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (42).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (42).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (43).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (43).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (44).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (44).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (45).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (45).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (46).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (46).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (47).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (47).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (48).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (48).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (49).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (49).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (50).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (50).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (51).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (51).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (52).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (52).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (53).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (53).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (54).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (54).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (55).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (55).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (57).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (57).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (58).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (58).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (59).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (59).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (60).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (60).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (61).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (61).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (62).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (62).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (63).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (63).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (64).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (64).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (65).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (65).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (66).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (66).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (68).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (68).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (71).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (71).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (72).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (72).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (73).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (73).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (75).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (75).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (76).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (76).jpg" alt="Forest" style="width:100%">
+    </a>
+ </div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (77).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (77).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (78).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (78).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (79).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (79).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (81).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (81).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (82).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (82).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (83).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (83).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (84).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (84).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (87).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (87).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (89).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (89).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (90).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (90).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (91).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (91).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">화재로 소실된 나무들을 위로하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (92).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (92).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">화재를 이겨낸 숲에게 엄지척을 보내는 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (93).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (93).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">화재를 이겨낸 숲에게 따뜻한 미소를 보내는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (94).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (94).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (95).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (95).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (96).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (96).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (97).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (97).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (100).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (100).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (103).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (103).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/afterEntrance (104).jpg">
+      <img src="/assets/images/events/2024/afterEntrance (104).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+## 다섯째 날 (Mar Monte Hotel)
+
