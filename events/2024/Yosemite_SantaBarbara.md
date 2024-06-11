@@ -3854,5 +3854,20 @@ Lower Yosemite Falls Trail에 들어서니 첫날 저녁 때 지나쳤던 예쁜
 ~~~
 \\
 
+차는 거침없이 달려 Oakhurst에 도착했습니다.
+발목 부상의 통증을 참으며 운전하는 가엾은 더스티에게 Advil 진통제를 하사하고 떠나는 차창밖으로 재미있는 장소가 눈에 띕니다.
+바로 Yosemite Cinema입니다.
+YOSEMITE VR 이란 영화를 볼 수 있군요.
+
+@@image-center
+![](/assets/images/events/2024/yosemiteCinema.jpg)
+@@
+@@image-caption
+요세미티 공원을 가상 현실로 접할 수 있는 Yosemite VR 영화를 절찬리 상영 중인 Yosemite Cinema
+@@
+\\
+
+자동차는 계속 달립니다.
+
 ## 다섯째 날 (Mar Monte Hotel)
 
