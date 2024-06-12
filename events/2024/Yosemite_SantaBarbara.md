@@ -3868,6 +3868,424 @@ YOSEMITE VR 이란 영화를 볼 수 있군요.
 \\
 
 자동차는 계속 달립니다.
+산타바바라를 향해...
+뒷좌석의 남편은 차창 밖 경치를 감상합니다.
+
+Fresno를 지나며 창 밖에는 나무들이 줄지어 재배되고 있습니다.
+그렇지 않아도 오는 길에도 일렬로 심어진 나무들이 궁금했던 남편은 사진을 찍어 봅니다.
+나중에 검색해보니 아몬드 나무인 것 같군요.
+Fresno, Bakersfield 근방에 대규모로 아몬드 농사를 짓는다고 하네요.
+줄지은 나무들이 장관입니다.
+나중에 일제히 꽃이 피면 아름답겠네요.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (1).jpg">
+      <img src="/assets/images/events/2024/wayToSB (1).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (4).jpg">
+      <img src="/assets/images/events/2024/wayToSB (4).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+계속되는 차창 밖의 경치가 좋습니다.
+남편의 카메라가 불을 뿜습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (6).jpg">
+      <img src="/assets/images/events/2024/wayToSB (6).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (7).jpg">
+      <img src="/assets/images/events/2024/wayToSB (7).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (9).jpg">
+      <img src="/assets/images/events/2024/wayToSB (9).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (11).jpg">
+      <img src="/assets/images/events/2024/wayToSB (11).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (12).jpg">
+      <img src="/assets/images/events/2024/wayToSB (12).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (15).jpg">
+      <img src="/assets/images/events/2024/wayToSB (15).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (16).jpg">
+      <img src="/assets/images/events/2024/wayToSB (16).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (17).jpg">
+      <img src="/assets/images/events/2024/wayToSB (17).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (18).jpg">
+      <img src="/assets/images/events/2024/wayToSB (18).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (20).jpg">
+      <img src="/assets/images/events/2024/wayToSB (20).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (24).jpg">
+      <img src="/assets/images/events/2024/wayToSB (24).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (25).jpg">
+      <img src="/assets/images/events/2024/wayToSB (25).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (26).jpg">
+      <img src="/assets/images/events/2024/wayToSB (26).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (27).jpg">
+      <img src="/assets/images/events/2024/wayToSB (27).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (28).jpg">
+      <img src="/assets/images/events/2024/wayToSB (28).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (31).jpg">
+      <img src="/assets/images/events/2024/wayToSB (31).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (32).jpg">
+      <img src="/assets/images/events/2024/wayToSB (32).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (34).jpg">
+      <img src="/assets/images/events/2024/wayToSB (34).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (38).jpg">
+      <img src="/assets/images/events/2024/wayToSB (38).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (39).jpg">
+      <img src="/assets/images/events/2024/wayToSB (39).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (40).jpg">
+      <img src="/assets/images/events/2024/wayToSB (40).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (44).jpg">
+      <img src="/assets/images/events/2024/wayToSB (44).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (46).jpg">
+      <img src="/assets/images/events/2024/wayToSB (46).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (47).jpg">
+      <img src="/assets/images/events/2024/wayToSB (47).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (48).jpg">
+      <img src="/assets/images/events/2024/wayToSB (48).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (49).jpg">
+      <img src="/assets/images/events/2024/wayToSB (49).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (50).jpg">
+      <img src="/assets/images/events/2024/wayToSB (50).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (51).jpg">
+      <img src="/assets/images/events/2024/wayToSB (51).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (52).jpg">
+      <img src="/assets/images/events/2024/wayToSB (52).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (53).jpg">
+      <img src="/assets/images/events/2024/wayToSB (53).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (54).jpg">
+      <img src="/assets/images/events/2024/wayToSB (54).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (55).jpg">
+      <img src="/assets/images/events/2024/wayToSB (55).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (56).jpg">
+      <img src="/assets/images/events/2024/wayToSB (56).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (57).jpg">
+      <img src="/assets/images/events/2024/wayToSB (57).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (58).jpg">
+      <img src="/assets/images/events/2024/wayToSB (58).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (62).jpg">
+      <img src="/assets/images/events/2024/wayToSB (62).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (63).jpg">
+      <img src="/assets/images/events/2024/wayToSB (63).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (64).jpg">
+      <img src="/assets/images/events/2024/wayToSB (64).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (65).jpg">
+      <img src="/assets/images/events/2024/wayToSB (65).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (66).jpg">
+      <img src="/assets/images/events/2024/wayToSB (66).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (69).jpg">
+      <img src="/assets/images/events/2024/wayToSB (69).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (70).jpg">
+      <img src="/assets/images/events/2024/wayToSB (70).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (74).jpg">
+      <img src="/assets/images/events/2024/wayToSB (74).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (75).jpg">
+      <img src="/assets/images/events/2024/wayToSB (75).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (76).jpg">
+      <img src="/assets/images/events/2024/wayToSB (76).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (78).jpg">
+      <img src="/assets/images/events/2024/wayToSB (78).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (81).jpg">
+      <img src="/assets/images/events/2024/wayToSB (81).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (84).jpg">
+      <img src="/assets/images/events/2024/wayToSB (84).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (85).jpg">
+      <img src="/assets/images/events/2024/wayToSB (85).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (88).jpg">
+      <img src="/assets/images/events/2024/wayToSB (88).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (90).jpg">
+      <img src="/assets/images/events/2024/wayToSB (90).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (94).jpg">
+      <img src="/assets/images/events/2024/wayToSB (94).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/wayToSB (96).jpg">
+      <img src="/assets/images/events/2024/wayToSB (96).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+산타 바바라에 도착하니 벌써 저녁이군요.
+하루종일 제대로 식사도 하지 못하고 운전한 더스티에게 근사한 저녁을 선사해야 겠습니다.
+산타 바바라의 다운타운에 멋진 이탈리안 식당 Pascucci으로 안내하는 더스티...
+대학원 시절 더스티가 많이 찾았던 식당이라는군요.
+
+분위기 좋은 식당으로 들어 갑니다.
+더스티는 본인이 가장 좋아하던 라자니아를 주문하는군요. 
+메뉴판을 보니 평일 저녁에 제공하는 스페셜이 있습니다.
+샐러드와 맥주나 포도주를 곁들인 메인, 그리고 디저트까지 제공하는 군요.
+부인과 남편은 스페셜 메뉴를 고릅니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/italianRestaurantSB (1).jpg">
+      <img src="/assets/images/events/2024/italianRestaurantSB (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">멋진 식당 분위기에 취해 나오는 웃음을 억지로 삼키려는 남편</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/italianRestaurantSB (2).jpg">
+      <img src="/assets/images/events/2024/italianRestaurantSB (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">주문한 맥주가 떨어져 대신 고른 맛있는 와인</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/italianRestaurantSB (3).jpg">
+      <img src="/assets/images/events/2024/italianRestaurantSB (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">메인 디쉬 등장!!! 급하게 포크를 꽂은 더스티의 라자니아, 부인의 라비올리 샘플러, 남편의 파스타</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/italianRestaurantSB (4).jpg">
+      <img src="/assets/images/events/2024/italianRestaurantSB (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">날카로운 눈빛으로 식당에 대한 자부심을 펼쳐보이는 더스티</div>
+</div>
+<div class="gallery">
+    <a href="/assets/images/events/2024/italianRestaurantSB (5).jpg">
+      <img src="/assets/images/events/2024/italianRestaurantSB (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">식당 입구를 배경으로 사방을 경계하는 부인과 더스티</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+ 
+매우 만족스러운 식사를 마친 일행...
+호텔로 향합니다.
+
+무난하게 체크인을 마치고 방으로 향한 부인과 남편...
+멋진 킹베드가 반깁니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/hotelSB (1).jpg">
+      <img src="/assets/images/events/2024/hotelSB (1).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/hotelSB (2).jpg">
+      <img src="/assets/images/events/2024/hotelSB (2).jpg" alt="Forest" style="width:100%">
+    </a>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+
+얼른 짐을 정리하고 야외 수영장으로 향합니다.
+
+수영장 물에 발을 담가 봅니다.
+그리 차갑진 않군요.
+일단 스파에서 따뜻한 물을 즐깁니다.
+이제 수영을 해볼까요?
+따뜻한 물에서 나와서인지 차갑게 느껴집니다.
+그렇다면 수영은 내일로...
+뜨거운 스파를 좀 더 즐깁니다.
+
+스파를 즐기고 방으로 돌아옵니다.
+샤워를 마치니 노곤하군요.
+이만 휴식을 취해야 겠습니다.
+이렇게 산타 바바라에서의 첫날 밤이 저뭅니다.
+
 
 ## 다섯째 날 (Mar Monte Hotel)
 
