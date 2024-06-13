@@ -1756,7 +1756,7 @@ Happy Isles Bridge입니다.
 Mist Trail을 걸어 올라가다 보니 드디어 보이기 시작한 Vernal Falls!!!
 조금씩 물기가 올라오고 물소리도 커집니다.
 이름과 걸맞게 물안개도 피어 있습니다.
-사전에 살펴본 정보로는 물이 많이 튀어 비옷을 입고 가야한다고 알고 있었습니다만 내려오는 사람들도 그렇고 조금 젓는 정도는 괜찮을 것 같습니다.
+사전에 살펴본 정보로는 물이 많이 튀어 비옷을 입고 가야한다고 알고 있었습니다만 내려오는 사람들도 그렇고 조금 젖는 정도는 괜찮을 것 같습니다.
 간단한 의견 타진 후 준비한 우의 판초는 없어도 상관없다고 결정합니다.
 폭포를 향해 전진합니다.
 
@@ -1765,7 +1765,7 @@ Mist Trail을 걸어 올라가다 보니 드디어 보이기 시작한 Vernal Fa
 가까이 갈 수록 튀는 물의 양이 장난이 아닙니다.
 준족을 자랑하며 이미 사라진 더스티는 어쩔 수 없습니다.
 부인과 남편은 급히 준비한 비닐 우의를 착용합니다.
-하지만 엄청난 물의 양과 바람은 간단한 우의 만으로 머리와 옷이 젓는 것을 막을 수 없게 하는군요.
+하지만 엄청난 물의 양과 바람은 간단한 우의 만으로 머리와 옷이 젖는 것을 막을 수 없게 하는군요.
 조금씩 험해지는 길과 물에 젖어 미끄러운 바닥은 폭포로의 접근을 더욱 힘들게 합니다.
 엄청난 장관을 옆에 두고서도 감히 한 눈을 팔 수는 없군요.
 부인 발목의 부상이 걱정되지만 천천히 조심해서 폭포를 오릅니다.
@@ -4282,10 +4282,286 @@ Fresno, Bakersfield 근방에 대규모로 아몬드 농사를 짓는다고 하�
 뜨거운 스파를 좀 더 즐깁니다.
 
 스파를 즐기고 방으로 돌아옵니다.
-샤워를 마치니 노곤하군요.
+부인은 샤워를 즐깁니다.
+바로 그 때...
+싸이렌이 울리고 바깥이 웅성 웅성 거립니다.
+남편이 무슨 일인가 밖을 나가 봅니다.
+헛... 사람들이 대피 중이네요.
+아무래도 문제가 생긴 모양입니다.
+일단 샤워 중인 부인에게 알리고 계속 분위기를 파악합니다.
+급하게 샤워를 중지하고 나온 부인...
+함께 대피를 할 준비를 하고 있는데, 알람이 중지됩니다.
+
+남편이 밖으로 나와 무슨 일인지 파악합니다.
+호텔 부엌에서 화재 경보가 났었군요.
+별 문제가 아니라고 합니다. :angry:
+
+불필요한 소동 끝에 샤워를 마치니 노곤하군요.
 이만 휴식을 취해야 겠습니다.
 이렇게 산타 바바라에서의 첫날 밤이 저뭅니다.
 
 
 ## 다섯째 날 (Mar Monte Hotel)
+산타 바바라에서 맞는 첫 아침...
+더스티가 야심차게 준비한 산타 바바라에서의 일정을 소화하기 위해 열심히 준비합니다.
+샤워 중인 부인...
+샤워실에서 부인의 비명을 들은 남편이 급히 샤워실로 갑니다.
+샤워실에서 무언가 깨져 바닥에 날카로운 파편이 흩어져 있습니다. :rage:
+그나마 다행히 부인이 다치지는 않았습니다.
 
+분노를 누르며 호텔 로비에 가서 항의를 합니다.
+호텔에서 사과의 의미로 좀 더 좋은 방을 내주는 군요.
+급히 짐을 정리해서 방을 옮깁니다.
+업그레이드된 방으로 분노를 삭이고 산타 바바라 관광을 떠납니다.
+
+첫 목적지는 산타 바바라 다운타운...
+이곳에서 아침 겸 점심식사를 할 예정입니다.
+예전 더스티의 단골 스시집을 찾아가는 것으로...
+깔끔한 다운타운 거리를 걸으며 Paseo Nuevo 몰을 구경합니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (1).jpg">
+      <img src="/assets/images/events/2024/downtownSB (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">산타 바바라 시내를 배경으로 흐뭇한 남편</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (2).jpg">
+      <img src="/assets/images/events/2024/downtownSB (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">깔끔한 산타 바바라 시내 거리</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (3).jpg">
+      <img src="/assets/images/events/2024/downtownSB (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">1895-1896년에 Major Joel Fithian이 건설한 Fithian Building</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (4).jpg">
+      <img src="/assets/images/events/2024/downtownSB (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Fithian Building 정문 문양</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (5).jpg">
+      <img src="/assets/images/events/2024/downtownSB (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">자랑스럽게 산타 바바라의 시내를 앞장서 안내하는 더스티</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (6).jpg">
+      <img src="/assets/images/events/2024/downtownSB (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">더스티가 안내한 Paseo Nuevo 몰의 하얀 벽에 경탄한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (7).jpg">
+      <img src="/assets/images/events/2024/downtownSB (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Paseo Nuevo 몰에 들어서며 머리를 정리하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (8).jpg">
+      <img src="/assets/images/events/2024/downtownSB (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Paseo Nuevo 몰에 들어서며 머리를 정리하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (9).jpg">
+      <img src="/assets/images/events/2024/downtownSB (9).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Paseo Nuevo 몰에 들어서며 머리를 정리하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (10).jpg">
+      <img src="/assets/images/events/2024/downtownSB (10).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">남편에게 터닝 댄스를 구사한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (11).jpg">
+      <img src="/assets/images/events/2024/downtownSB (11).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">몰의 하얀 구조물을 검사하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (12).jpg">
+      <img src="/assets/images/events/2024/downtownSB (12).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">계속 검사 중인 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (13).jpg">
+      <img src="/assets/images/events/2024/downtownSB (13).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">또 검사하는 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (14).jpg">
+      <img src="/assets/images/events/2024/downtownSB (14).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">또 남편에게 터닝댄스를 구사한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (15).jpg">
+      <img src="/assets/images/events/2024/downtownSB (15).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">댄스를 멈준 듯 하다가...</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (16).jpg">
+      <img src="/assets/images/events/2024/downtownSB (16).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">또 다시 남편에게 터닝댄스</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (17).jpg">
+      <img src="/assets/images/events/2024/downtownSB (17).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">성공적인 댄스에 흐뭇한 부인</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (18).jpg">
+      <img src="/assets/images/events/2024/downtownSB (18).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">부인의 이어지는 댄스</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/downtownSB (19).jpg">
+      <img src="/assets/images/events/2024/downtownSB (19).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">무릎 굽혀 댄스</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+몰 안에 위치한 sushi tyme 스시 식당을 찾고 만 더스티...
+남편과 부인을 자연스럽게 안내합니다.
+맛있는 벤또 식사를 마칩니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/sushiTyme (1).jpg">
+      <img src="/assets/images/events/2024/sushiTyme (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">바빠요, 스시 배달 준비 중 입니다.</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/sushiTyme (2).jpg">
+      <img src="/assets/images/events/2024/sushiTyme (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">스시 배달 준비 완료</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/sushiTyme (3).jpg">
+      <img src="/assets/images/events/2024/sushiTyme (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">스시 타임이 왔어요</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/sushiTyme (4).jpg">
+      <img src="/assets/images/events/2024/sushiTyme (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">정면의 스시 타임</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/sushiTyme (5).jpg">
+      <img src="/assets/images/events/2024/sushiTyme (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">스시 타임 갈래, 오크 베리 갈래</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
+
+맛있는 벤또 점심을 마치고 우리는 Shoreline 공원으로 향합니다.
+공원 주차장에 차를 댄 후, Leadbetter Beach 쪽으로 걸어갑니다.
+바닷가 풍경이 아름답습니다.
+
+~~~
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (1).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (1).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Shoreline 공원</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (2).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (2).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Shoreline 공원</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (3).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (3).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Shoreline 공원</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (4).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (4).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Shoreline 공원</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (5).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (5).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Leadbetter Beach</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (6).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (6).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">해안가에 떠있는 검정 요트들</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (7).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (7).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">Leadbetter Beach</div>
+</div>
+
+<div class="gallery">
+    <a href="/assets/images/events/2024/leadbetterBeach (8).jpg">
+      <img src="/assets/images/events/2024/leadbetterBeach (8).jpg" alt="Forest" style="width:100%">
+    </a>
+    <div class="desc">검정 요트들</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+\\
